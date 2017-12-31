@@ -1,0 +1,676 @@
+{
+  "paper_crumbs": {
+    "90003": {
+      "name": "Spectral Hoodie",
+      "type": 4,
+      "cost": 0,
+      "is_member": false
+    },
+    "90016": {
+      "name": "Custom Lei",
+      "type": 3,
+      "cost": 0,
+      "is_member": false
+    },
+    "90017": {
+      "name": "Big Black Scarf",
+      "type": 3,
+      "cost": 0,
+      "is_member": false
+    },
+    "90018": {
+      "name": "Transparent Mask",
+      "type": 2,
+      "cost": 0,
+      "is_member": false
+    },
+    "90020": {
+      "name": "Green Mask",
+      "type": 2,
+      "cost": 0,
+      "is_member": false
+    },
+    "90021": {
+      "name": "Blue/Green Background",
+      "type": 8,
+      "cost": 0,
+      "is_member": false
+    },
+    "90022": {
+      "name": "Blue/Pink Background",
+      "type": 8,
+      "cost": 0,
+      "is_member": false
+    },
+    "90023": {
+      "name": "Gay Tumblr Background",
+      "type": 8,
+      "cost": 0,
+      "is_member": false
+    },
+    "90024": {
+      "name": "Kotoura San Background",
+      "type": 8,
+      "cost": 0,
+      "is_member": false
+    },
+    "90025": {
+      "name": "Miku Hatsune Background",
+      "type": 8,
+      "cost": 0,
+      "is_member": false
+    },
+    "90026": {
+      "name": "Pink Ouija Hoodie",
+      "type": 4,
+      "cost": 0,
+      "is_member": false
+    },
+    "90027": {
+      "name": "Purple Adidas Hoodie",
+      "type": 4,
+      "cost": 0,
+      "is_member": false
+    },
+    "90028": {
+      "name": "Cube Hoodie",
+      "type": 4,
+      "cost": 0,
+      "is_member": false
+    },
+    "90029": {
+      "name": "Beer Bottle",
+      "type": 5,
+      "cost": 0,
+      "is_member": false
+    },
+    "90030": {
+      "name": "Lean Cup",
+      "type": 5,
+      "cost": 0,
+      "is_member": false
+    },
+    "90031": {
+      "name": "Hologram Shoes",
+      "type": 6,
+      "cost": 0,
+      "is_member": false
+    },
+    "90032": {
+      "name": "Christmis 2016 sweater",
+      "type": 4,
+      "cost": 0,
+      "is_member": false
+    },
+    "90033": {
+      "name": "Cool Line Hoodie",
+      "type": 4,
+      "cost": 0,
+      "is_member": false
+    },
+    "90034": {
+      "name": "ImLogan Hoodie",
+      "type": 4,
+      "cost": 0,
+      "is_member": false
+    },
+    "90035": {
+      "name": "Pink Water Hoodie",
+      "type": 4,
+      "cost": 0,
+      "is_member": false
+    },
+    "90036": {
+      "name": "Sparkle Hoodie",
+      "type": 4,
+      "cost": 0,
+      "is_member": false
+    },
+    "90037": {
+      "name": "State Shirt",
+      "type": 4,
+      "cost": 0,
+      "is_member": false
+    },
+    "90038": {
+      "name": "Water Hoodie",
+      "type": 4,
+      "cost": 0,
+      "is_member": false
+    },
+    "90039": {
+      "name": "Pink n Blue Scarf",
+      "type": 3,
+      "cost": 0,
+      "is_member": false
+    },
+    "90040": {
+      "name": "Black Bandana",
+      "type": 3,
+      "cost": 0,
+      "is_member": false
+    },
+    "90041": {
+      "name": "Pink Tiara",
+      "type": 1,
+      "cost": 0,
+      "is_member": false
+    },
+    "90042": {
+      "name": "BTK Helmet",
+      "type": 1,
+      "cost": 0,
+      "is_member": false
+    },
+    "90043": {
+      "name": "Pretty Penguins Shirt",
+      "type": 4,
+      "cost": 0,
+      "is_member": false
+    },
+    "90044": {
+      "name": "Gator's Bitcoin Shirt",
+      "type": 4,
+      "cost": 0,
+      "is_member": false
+    },
+    "90045": {
+      "name": "Black Supreme Hoodie",
+      "type": 4,
+      "cost": 0,
+      "is_member": false
+    },
+    "90046": {
+      "name": "White Supreme Hoodie",
+      "type": 4,
+      "cost": 0,
+      "is_member": false
+    },
+    "90047": {
+      "name": "Japanese Outfit",
+      "type": 4,
+      "cost": 0,
+      "is_member": false
+    },
+    "90048": {
+      "name": "Reindeer Sweater 2016",
+      "type": 4,
+      "cost": 0,
+      "is_member": false
+    },
+    "90049": {
+      "name": "Penguin Pancake",
+      "type": 4,
+      "cost": 0,
+      "is_member": false
+    },
+    "90050": {
+      "name": "Wavy Background",
+      "type": 8,
+      "cost": 0,
+      "is_member": false
+    },
+    "90051": {
+      "name": "Wavves Shirt",
+      "type": 4,
+      "cost": 0,
+      "is_member": false
+    },
+    "90052": {
+      "name": "Butterfly Shirt",
+      "type": 4,
+      "cost": 0,
+      "is_member": false
+    },
+    "90053": {
+      "name": "FIDLAR Shirt",
+      "type": 4,
+      "cost": 0,
+      "is_member": false
+    },
+    "90054": {
+      "name": "Sparkling Flower Shirt",
+      "type": 4,
+      "cost": 0,
+      "is_member": false
+    },
+    "90055": {
+      "name": "Cinnamon Toast Crunch",
+      "type": 5,
+      "cost": 0,
+      "is_member": false
+    },
+    "90056": {
+      "name": "PSSMP Vest",
+      "type": 4,
+      "cost": 0,
+      "is_member": false
+    },
+    "90057": {
+      "name": "CQUDO Hoodie",
+      "type": 4,
+      "cost": 0,
+      "is_member": false
+    },
+    "90059": {
+      "name": "Cyan Nike Hoodie",
+      "type": 4,
+      "cost": 0,
+      "is_member": false
+    },
+    "90062": {
+      "name": "Kyoto Background",
+      "type": 8,
+      "cost": 0,
+      "is_member": false
+    },
+    "90063": {
+      "name": "Kyoto Gray Background",
+      "type": 8,
+      "cost": 0,
+      "is_member": false
+    },
+    "90066": {
+      "name": "Green Nike Hoodie",
+      "type": 4,
+      "cost": 0,
+      "is_member": false
+    },
+    "90076": {
+      "name": "Dark Shades",
+      "type": 2,
+      "cost": 0,
+      "is_member": false
+    },
+    "90077": {
+      "name": "Black Fishing Vest",
+      "type": 4,
+      "cost": 0,
+      "is_member": false
+    },
+    "90084": {
+      "name": "Gradient Shirt",
+      "type": 4,
+      "cost": 0,
+      "is_member": false
+    },
+    "90087": {
+      "name": "Spectral Party Hat",
+      "type": 1,
+      "cost": 0,
+      "is_member": false
+    },
+    "90100": {
+      "name": "Swift's Fat Blunt",
+      "type": 2,
+      "cost": 0,
+      "is_member": false
+    },
+    "90101": {
+      "name": "Black Fishing Hat",
+      "type": 1,
+      "cost": 0,
+      "is_member": false
+    },
+    "90102": {
+      "name": "Nike Hoodie",
+      "type": 4,
+      "cost": 0,
+      "is_member": false
+    },
+    "90103": {
+      "name": "Gray Party Hat",
+      "type": 1,
+      "cost": 0,
+      "is_member": false
+    },
+    "90104": {
+      "name": "420 Fedora",
+      "type": 1,
+      "cost": 0,
+      "is_member": false
+    },
+    "90303": {
+      "name": "Seeth's Bleach",
+      "type": 5,
+      "cost": 0,
+      "is_member": false
+    },
+    "90304": {
+      "name": "Sad Face",
+      "type": 2,
+      "cost": 0,
+      "is_member": false
+    },
+    "90305": {
+      "name": "Rony's Shitty Scarf",
+      "type": 3,
+      "cost": 0,
+      "is_member": false
+    },
+    "90306": {
+      "name": "Seeth's Trippy Tie",
+      "type": 3,
+      "cost": 0,
+      "is_member": false
+    },
+    "90307": {
+      "name": "Trippy Goggles",
+      "type": 2,
+      "cost": 0,
+      "is_member": false
+    },
+    "90308": {
+      "name": "I Love Rony Shirt",
+      "type": 4,
+      "cost": 0,
+      "is_member": false
+    },
+    "90309": {
+      "name": "HookBOT Shirt",
+      "type": 4,
+      "cost": 0,
+      "is_member": false
+    },
+    "90310": {
+      "name": "Galaxy Hoodie",
+      "type": 4,
+      "cost": 0,
+      "is_member": false
+    },
+    "90311": {
+      "name": "Green Ghost Costume",
+      "type": 4,
+      "cost": 0,
+      "is_member": false
+    },
+    "90312": {
+      "name": "Blue Bong",
+      "type": 5,
+      "cost": 0,
+      "is_member": false
+    },
+    "90313": {
+      "name": "Dark Tiara",
+      "type": 1,
+      "cost": 0,
+      "is_member": false
+    },
+    "90314": {
+      "name": "Silver Tiara",
+      "type": 1,
+      "cost": 0,
+      "is_member": false
+    },
+    "90315": {
+      "name": "Starbucks Coffee",
+      "type": 5,
+      "cost": 0,
+      "is_member": false
+    },
+    "90316": {
+      "name": "Seeth's Background",
+      "type": 8,
+      "cost": 0,
+      "is_member": false
+    },
+    "90317": {
+      "name": "Gay Trippy Background",
+      "type": 8,
+      "cost": 0,
+      "is_member": false
+    },
+    "90318": {
+      "name": "Trippy Spikes Background",
+      "type": 8,
+      "cost": 0,
+      "is_member": false
+    },
+    "90319": {
+      "name": "Trippy Pussy Background",
+      "type": 8,
+      "cost": 0,
+      "is_member": false
+    },
+    "90320": {
+      "name": "Tinychat Mod Shirt",
+      "type": 4,
+      "cost": 0,
+      "is_member": false
+    },
+    "90321": {
+      "name": "Xat Mod Shirt",
+      "type": 4,
+      "cost": 0,
+      "is_member": false
+    },
+    "90322": {
+      "name": "HookBOT Mask",
+      "type": 2,
+      "cost": 0,
+      "is_member": false
+    },
+    "90323": {
+      "name": "Sadboys Pin",
+      "type": 7,
+      "cost": 0,
+      "is_member": false
+    },
+    "90324": {
+      "name": "Sadboys Pin #2",
+      "type": 7,
+      "cost": 0,
+      "is_member": false
+    },
+    "90325": {
+      "name": "Yung Lean Pin",
+      "type": 7,
+      "cost": 0,
+      "is_member": false
+    },
+    "90326": {
+      "name": "Sadboys Pin #3",
+      "type": 7,
+      "cost": 0,
+      "is_member": false
+    },
+    "90327": {
+      "name": "Stoned Face",
+      "type": 2,
+      "cost": 0,
+      "is_member": false
+    },
+    "90328": {
+      "name": "Seeth's 10oz Blunt",
+      "type": 5,
+      "cost": 0,
+      "is_member": false
+    },
+    "90329": {
+      "name": "Pepe Pin",
+      "type": 7,
+      "cost": 0,
+      "is_member": false
+    },
+    "90333": {
+      "name": "Vans Hoodie",
+      "type": 4,
+      "cost": 0,
+      "is_member": false
+    },
+    "90334": {
+      "name": "Enjoi Hoodie",
+      "type": 4,
+      "cost": 0,
+      "is_member": false
+    },
+    "90335": {
+      "name": "Seeth's Mask",
+      "type": 2,
+      "cost": 0,
+      "is_member": false
+    },
+    "90336": {
+      "name": "Cocaine Face",
+      "type": 2,
+      "cost": 0,
+      "is_member": false
+    },
+    "90337": {
+      "name": "Seeth's Santa Hat",
+      "type": 1,
+      "cost": 0,
+      "is_member": false
+    },
+    "90338": {
+      "name": "Mint Parka",
+      "type": 4,
+      "cost": 0,
+      "is_member": false
+    },
+    "90339": {
+      "name": "Maroon Scarf",
+      "type": 3,
+      "cost": 0,
+      "is_member": false
+    },
+    "90340": {
+      "name": "Gray Quilted Vest",
+      "type": 4,
+      "cost": 0,
+      "is_member": false
+    },
+    "90341": {
+      "name": "Black Quilted Vest",
+      "type": 4,
+      "cost": 0,
+      "is_member": false
+    },
+    "90342": {
+      "name": "White Quilted Vest",
+      "type": 4,
+      "cost": 0,
+      "is_member": false
+    },
+    "90343": {
+      "name": "Gator's Yeezys",
+      "type": 6,
+      "cost": 0,
+      "is_member": false
+    },
+    "90777": {
+      "name": "Pink & Gray Hoodie",
+      "type": 4,
+      "cost": 0,
+      "is_member": false
+    },
+    "90778": {
+      "name": "Black Ouija Hoodie",
+      "type": 4,
+      "cost": 0,
+      "is_member": false
+    },
+    "90779": {
+      "name": "It's a Boy Shirt",
+      "type": 4,
+      "cost": 0,
+      "is_member": false
+    },
+    "90780": {
+      "name": "Mac DeMarco Shirt",
+      "type": 4,
+      "cost": 0,
+      "is_member": false
+    },
+    "90781": {
+      "name": "Staff Suit",
+      "type": 4,
+      "cost": 0,
+      "is_member": false
+    },
+    "90782": {
+      "name": "#BanKimJongB00m Shirt",
+      "type": 4,
+      "cost": 0,
+      "is_member": false
+    },
+    "90783": {
+      "name": "Pink Paintbrush",
+      "type": 5,
+      "cost": 0,
+      "is_member": false
+    },
+    "90784": {
+      "name": "Help's Music",
+      "type": 8,
+      "cost": 0,
+      "is_member": false
+    },
+    "133769": {
+      "name": "Help's Hoodie",
+      "type": 4,
+      "cost": 0,
+      "is_member": false
+    },
+    "133770": {
+      "name": "Xmas17 Outfit",
+      "type": 4,
+      "cost": 0,
+      "is_member": false
+    },
+    "133771": {
+      "name": "Xmas17 Shoes0",
+      "type": 6,
+      "cost": 0,
+      "is_member": false
+    },
+    "133772": {
+      "name": "Xmas17 Shoes1",
+      "type": 6,
+      "cost": 0,
+      "is_member": false
+    },
+    "133773": {
+      "name": "Xmas17 Shoes2",
+      "type": 6,
+      "cost": 0,
+      "is_member": false
+    },
+    "133774": {
+      "name": "Xmas17 Shoes3",
+      "type": 6,
+      "cost": 0,
+      "is_member": false
+    },
+    "133775": {
+      "name": "Xmas17 Shoes4",
+      "type": 6,
+      "cost": 0,
+      "is_member": false
+    },
+    "133776": {
+      "name": "Xmas17 Shoes5",
+      "type": 6,
+      "cost": 0,
+      "is_member": false
+    },
+    "133777": {
+      "name": "Xmas17 Party Hat",
+      "type": 1,
+      "cost": 0,
+      "is_member": false
+    },
+    "133778": {
+      "name": "Xmas17 Memes Bg",
+      "type": 8,
+      "cost": 0,
+      "is_member": false
+    },
+    "133779": {
+      "name": "Xmas17 Penguin Bg",
+      "type": 8,
+      "cost": 0,
+      "is_member": false
+    }
+  }
+}
