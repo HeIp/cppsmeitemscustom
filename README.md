@@ -1,10 +1,10 @@
 # cppsmeitemscustom
 
->v2 folder contains where all the files should go
+> **play** folder contains where all the files should go in media server,
 everything else is room swfs
 
 
-Crumbs ActionScript **_Notes_** ( By Hook & Nomb) :
+-Crumbs ActionScript **_Notes_** ( By Hook & Nomb) :
 >crumbs only .as not .swf
 
 
