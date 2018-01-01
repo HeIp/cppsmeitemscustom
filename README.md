@@ -17,3 +17,4 @@ Moved current files into [play folder](/play)
 Moved .json file crumbs for custom items to [client folder](/play/v2/client)
 
 ```
+![Thinking](https://media.giphy.com/media/a5viI92PAF89q/giphy.gif)
