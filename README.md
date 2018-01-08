@@ -13,7 +13,9 @@ everything else is room swfs
 ### 1/8/2018 Update/Fix : ###
 
 >Fixed json items in [json file](/play/v2/client/item_crumbs.json)
+
 >global_crumbs to display missing files in [global](/global_crumbs.as)
+
 >local_crumbs to display missing files in [local](/local_crumbs.as)
 
 ### New Years Repo Updates :bowtie: : ###
