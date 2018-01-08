@@ -1,5 +1,23 @@
 {
   "paper_crumbs": {
+    "19001": {
+      "name": "One Million Hat",
+      "type": 1,
+      "cost": 0,
+      "is_member": false
+    },
+    "19002": {
+      "name": "CPPS.me Cuffs",
+      "type": 5,
+      "cost": 0,
+      "is_member": false
+    },
+    "19003": {
+      "name": "One Million Party Background",
+      "type": 8,
+      "cost": 0,
+      "is_member": false
+    },
     "90003": {
       "name": "Spectral Hoodie",
       "type": 4,
@@ -603,6 +621,30 @@
     "90784": {
       "name": "Help's Music",
       "type": 8,
+      "cost": 0,
+      "is_member": false
+    },
+    "100001": {
+      "name": "Black Hat",
+      "type": 1,
+      "cost": 0,
+      "is_member": false
+    },
+    "100002": {
+      "name": "Frappé",
+      "type": 7,
+      "cost": 0,
+      "is_member": false
+    },
+    "100003": {
+      "name": "Good Vibes Hoodie",
+      "type": 4,
+      "cost": 0,
+      "is_member": false
+    },
+    "100004": {
+      "name": "Sneakers",
+      "type": 6,
       "cost": 0,
       "is_member": false
     },

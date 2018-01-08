@@ -10,6 +10,12 @@ everything else is room swfs
 
 ## This Repository was built for the intent of adding [Cpps.Me](http://www.cpps.me/) Features.
 
+### 1/8/2018 Update/Fix : ###
+
+>Fixed json items in [json file](/play/v2/client/item_crumbs.json)
+>global_crumbs to display missing files in [global](/global_crumbs.as)
+>local_crumbs to display missing files in [local](/local_crumbs.as)
+
 ### New Years Repo Updates :bowtie: : ###
 
 >Moved current files into [play folder](/play)
