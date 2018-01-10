@@ -10,6 +10,13 @@ everything else is room swfs
 
 ## This Repository was built for the intent of adding [Cpps.Me](http://www.cpps.me/) Features.
 
+
+### 1/10/2018 Update/Fix : ###
+
+>Fixed json items in to include items #'s 90344 & 90200 [json file](/play/v2/client/item_crumbs.json)
+
+>Add more items in [global](/play/v2/content/global)
+
 ### 1/8/2018 Update/Fix : ###
 
 >Fixed json items in [json file](/play/v2/client/item_crumbs.json)
