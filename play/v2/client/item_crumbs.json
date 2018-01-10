@@ -348,6 +348,12 @@
       "cost": 0,
       "is_member": false
     },
+    "90200": {
+      "name": "Black Bunny",
+      "type": 1,
+      "cost": 0,
+      "is_member": false
+    },
     "90303": {
       "name": "Seeth's Bleach",
       "type": 5,
@@ -576,6 +582,12 @@
       "cost": 0,
       "is_member": false
     },
+    "90344": {
+      "name": "Blurry Face",
+      "type": 2,
+      "cost": 0,
+      "is_member": false
+    },
     "90777": {
       "name": "Pink & Gray Hoodie",
       "type": 4,
@@ -644,6 +656,324 @@
     },
     "100004": {
       "name": "Sneakers",
+      "type": 6,
+      "cost": 0,
+      "is_member": false
+    },
+    "20001": {
+      "name": "Dark Gray Bunny",
+      "type": 5,
+      "cost": 0,
+      "is_member": false
+    },
+    "20002": {
+      "name": "Red Book",
+      "type": 5,
+      "cost": 0,
+      "is_member": false
+    },
+    "20003": {
+      "name": "Purple Inflatable Duck",
+      "type": 4,
+      "cost": 0,
+      "is_member": false
+    },
+    "20004": {
+      "name": "Purple Letterman Jacket",
+      "type": 4,
+      "cost": 0,
+      "is_member": false
+    },
+    "20005": {
+      "name": "Purple and Black Scarf",
+      "type": 3,
+      "cost": 0,
+      "is_member": false
+    },
+    "20006": {
+      "name": "Dark Teal Hoodie",
+      "type": 4,
+      "cost": 0,
+      "is_member": false
+    },
+    "20007": {
+      "name": "Black & Green Party Hat",
+      "type": 1,
+      "cost": 0,
+      "is_member": false
+    },
+    "20009": {
+      "name": "Pink Wand",
+      "type": 5,
+      "cost": 0,
+      "is_member": false
+    },
+    "90010": {
+      "name": "Red,White & Black Scarf",
+      "type": 3,
+      "cost": 0,
+      "is_member": false
+    },
+    "20011": {
+      "name": "Red Bunny Slippers",
+      "type": 6,
+      "cost": 0,
+      "is_member": false
+    },
+    "20012": {
+      "name": "Purple Bunny Slippers",
+      "type": 6,
+      "cost": 0,
+      "is_member": false
+    },
+    "20013": {
+      "name": "White Hoodie",
+      "type": 4,
+      "cost": 0,
+      "is_member": false
+    },
+    "20014": {
+      "name": "White and Black Scarf",
+      "type": 3,
+      "cost": 0,
+      "is_member": false
+    },
+    "20015": {
+      "name": "Hamtaro",
+      "type": 5,
+      "cost": 0,
+      "is_member": false
+    },
+    "20016": {
+      "name": "Black Scarf",
+      "type": 3,
+      "cost": 0,
+      "is_member": false
+    },
+    "20017": {
+      "name": "Teal Scarf",
+      "type": 3,
+      "cost": 0,
+      "is_member": false
+    },
+    "20018": {
+      "name": "Yellow Bunny Slippers",
+      "type": 6,
+      "cost": 0,
+      "is_member": false
+    },
+    "20019": {
+      "name": "White Bunny Slippers",
+      "type": 6,
+      "cost": 0,
+      "is_member": false
+    },
+    "20020": {
+      "name": "War Machine Costume",
+      "type": 4,
+      "cost": 0,
+      "is_member": false
+    },
+    "20021": {
+      "name": "War Machine Mask",
+      "type": 1,
+      "cost": 0,
+      "is_member": false
+    },
+    "20022": {
+      "name": "Pink Snowflake Mask",
+      "type": 2,
+      "cost": 0,
+      "is_member": false
+    },
+    "20023": {
+      "name": "Pink Snowflake T-Shirt",
+      "type": 4,
+      "cost": 0,
+      "is_member": false
+    },
+    "20097": {
+      "name": "Red Fox",
+      "type": 3,
+      "cost": 0,
+      "is_member": false
+    },
+    "20098": {
+      "name": "Dark Fox",
+      "type": 3,
+      "cost": 0,
+      "is_member": false
+    },
+    "20099": {
+      "name": "Nyan Cat",
+      "type": 5,
+      "cost": 0,
+      "is_member": false
+    },
+    "30002": {
+      "name": "Yellow Puffle Sweater",
+      "type": 4,
+      "cost": 0,
+      "is_member": false
+    },
+    "30003": {
+      "name": "Black Ghost Costume",
+      "type": 4,
+      "cost": 0,
+      "is_member": false
+    },
+    "30004": {
+      "name": "Blue Ghost Costume",
+      "type": 4,
+      "cost": 0,
+      "is_member": false
+    },
+    "30005": {
+      "name": "Purple Golf Cart",
+      "type": 4,
+      "cost": 0,
+      "is_member": false
+    },
+    "30006": {
+      "name": "Red Golf Cart",
+      "type": 4,
+      "cost": 0,
+      "is_member": false
+    },
+    "30007": {
+      "name": "White and Blue Scarf",
+      "type": 3,
+      "cost": 0,
+      "is_member": false
+    },
+    "30008": {
+      "name": "Purple Baseball Cap",
+      "type": 1,
+      "cost": 0,
+      "is_member": false
+    },
+    "30009": {
+      "name": "Black Baseball Cap",
+      "type": 1,
+      "cost": 0,
+      "is_member": false
+    },
+    "30011": {
+      "name": "Easter Shirt",
+      "type": 4,
+      "cost": 0,
+      "is_member": false
+    },
+    "30012": {
+      "name": "Easter Hat",
+      "type": 1,
+      "cost": 0,
+      "is_member": false
+    },
+    "20037": {
+      "name": "Penguin Pancake",
+      "type": 4,
+      "cost": 0,
+      "is_member": false
+    },
+    "30021": {
+      "name": "Black-3D Glasses",
+      "type": 2,
+      "cost": 0,
+      "is_member": false
+    },
+    "30021": {
+      "name": "Black Kitty Kat Hat",
+      "type": 1,
+      "cost": 0,
+      "is_member": false
+    },
+    "39000": {
+      "name": "Orange Grass Skirt",
+      "type": 4,
+      "cost": 0,
+      "is_member": false
+    },
+    "39001": {
+      "name": "Yellow Grass Skirt",
+      "type": 4,
+      "cost": 0,
+      "is_member": false
+    },
+    "39002": {
+      "name": "Red Grass Skirt",
+      "type": 4,
+      "cost": 0,
+      "is_member": false
+    },
+    "40002": {
+      "name": "Dark Pink Floppy Hat",
+      "type": 1,
+      "cost": 0,
+      "is_member": false
+    },
+    "40003": {
+      "name": "Beige Floppy Hat",
+      "type": 1,
+      "cost": 0,
+      "is_member": false
+    },
+    "40003": {
+      "name": "Beige Hoodie",
+      "type": 4,
+      "cost": 0,
+      "is_member": false
+    },
+    "40007": {
+      "name": "Black Book",
+      "type": 5,
+      "cost": 0,
+      "is_member": false
+    },
+    "40010": {
+      "name": "Dark Blue Lei",
+      "type": 3,
+      "cost": 0,
+      "is_member": false
+    },
+    "40013": {
+      "name": "Blue Bunny Slippers",
+      "type": 6,
+      "cost": 0,
+      "is_member": false
+    },
+    "40014": {
+      "name": "Black Bunny Slippers",
+      "type": 6,
+      "cost": 0,
+      "is_member": false
+    },
+    "40015": {
+      "name": "Pink Lei",
+      "type": 3,
+      "cost": 0,
+      "is_member": false
+    },
+    "40017": {
+      "name": "Chocolate Ice Cream",
+      "type": 5,
+      "cost": 0,
+      "is_member": false
+    },
+    "40020": {
+      "name": "Blue Owl Hoodie",
+      "type": 4,
+      "cost": 0,
+      "is_member": false
+    },
+    "46000": {
+      "name": "Prom Ticket",
+      "type": 9,
+      "cost": 0,
+      "is_member": false
+    },
+    "48039": {
+      "name": "HoverBoard - broken",
       "type": 6,
       "cost": 0,
       "is_member": false
