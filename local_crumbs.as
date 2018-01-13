@@ -6867,7 +6867,6 @@ paper_crumbs[13373] = {name:"Dylan\'s Trench Coat"};
 paper_crumbs[13374] = {name:"Graphwize Lei"};
 paper_crumbs[13375] = {name:"Graphwize Hoodie"};
 paper_crumbs[13376] = {name:"Double Double"};
-paper_crumbs[13277] = {name:"Graphwize Vol. 4 Background"};
 paper_crumbs[13378] = {name:"Tim Hortons Apron"};
 paper_crumbs[13380] = {name:"Nosferatu Jacket"};
 paper_crumbs[13381] = {name:"Skeleton Hoodie"};

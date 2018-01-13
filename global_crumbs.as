@@ -7001,7 +7001,6 @@ paper_crumbs[13373] = {type:3,cost:0,is_member:false};
 paper_crumbs[13374] = {type:3,cost:0,is_member:false};
 paper_crumbs[13375] = {type:4,cost:0,is_member:false};
 paper_crumbs[13376] = {type:5,cost:0,is_member:false};
-paper_crumbs[13277] = {type:8,cost:0,is_member:false};
 paper_crumbs[13378] = {type:4,cost:0,is_member:false};
 paper_crumbs[13380] = {type:4,cost:0,is_member:false};
 paper_crumbs[13381] = {type:4,cost:0,is_member:false};
