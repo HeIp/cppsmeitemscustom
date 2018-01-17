@@ -10,6 +10,11 @@ everything else is room swfs
 
 ## This Repository was built for the intent of adding [Cpps.Me](http://www.cpps.me/) Features.
 
+
+### 1/17/2018 More items a :poop:ton- SP : ###
+
+>Add more items in [clothing](/play/v2/content/global/clothing)
+
 ### 1/13/2018 More items, json duplicate id fix : ###
 
 >Fixed json duplicate + added more items [json file](/play/v2/client/item_crumbs.json)
