@@ -7604,3 +7604,4 @@ paper_crumbs[133778] = {type:8,cost:0,is_member:false};
 paper_crumbs[133779] = {type:8,cost:0,is_member:false};
 paper_crumbs[90200] = {type:1,cost:0,is_member:false};
 paper_crumbs[90344] = {type:2,cost:0,is_member:false};
+paper_crumbs[90801] = {type:2,cost:0,is_member:false};
