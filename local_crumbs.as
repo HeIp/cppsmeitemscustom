@@ -7417,6 +7417,7 @@ paper_crumbs[133778] = {name:"Xmas17 Memes Bg"};
 paper_crumbs[133779] = {name:"Xmas17 Penguin Bg"};
 paper_crumbs[90200] = {name:"Black Bunny Hat"};
 paper_crumbs[90344] = {name:"Blurry Face"};
+paper_crumbs[90801] = {name:"Purple Sunglasses"};
 furniture_crumbs[1] = {name:"Pink Chair"};
 furniture_crumbs[2] = {name:"Pink Beanbag Chair"};
 furniture_crumbs[3] = {name:"Pink Table"};
