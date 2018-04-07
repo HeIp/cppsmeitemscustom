@@ -1,0 +1,200 @@
+{
+	"shop_crumbs": {
+		"90021": {
+			"name": "Sad Boys Bucket Hat",
+			"desc": "Just sad.",
+			"rare": false,
+			"vip": false,
+			"type": "item",
+			"cost": 35000
+		},
+		"90018": {
+			"name": "Eyes Hoodie",
+			"desc": "I saw into your soul.",
+			"rare": true,
+			"vip": true,
+			"type": "item",
+			"cost": 50000
+		},
+		"90023": {
+			"name": "Sadidas Hoodie",
+			"desc": "Can't get more sad.",
+			"rare": false,
+			"vip": false,
+			"type": "item",
+			"cost": 50000
+		},
+		"90022": {
+			"name": "Acid Sad Boys Bucket Hat",
+			"desc": "Sad on acid.",
+			"rare": true,
+			"vip": true,
+			"type": "item",
+			"cost": 35000
+		},
+		"90019": {
+			"name": "Antisocial Social Club Hoodie",
+			"desc": "Just you only you and sometimes you",
+			"rare": true,
+			"vip": true,
+			"type": "item",
+			"cost": 50000
+		},
+		"90020": {
+			"name": "Fuck The Population Hoodie",
+			"desc": "FTP.",
+			"rare": false,
+			"vip": false,
+			"type": "item",
+			"cost": 50000
+		},
+		"90002": {
+			"name": "Red Nike Hoodie",
+			"desc": "A red and white Nike hoodie.",
+			"rare": false,
+			"vip": false,
+			"type": "item",
+			"cost": 40000
+		},
+		"90024": {
+			"name": "Flame Sneakers",
+			"desc": "Flamin' hot.",
+			"rare": false,
+			"vip": false,
+			"type": "item",
+			"cost": 25000
+		},
+		"90025": {
+			"name": "Interstellar String Hoodie",
+			"desc": "Don't lose yourself.",
+			"rare": true,
+			"vip": true,
+			"type": "item",
+			"cost": 50000
+		},
+		"90026": {
+			"name": "Cat Ears",
+			"desc": "Uh, meow?",
+			"rare": false,
+			"vip": false,
+			"type": "item",
+			"cost": 30000
+		},
+		"90027": {
+			"name": "The Sass",
+			"desc": "A little bit extra today.",
+			"rare": false,
+			"vip": false,
+			"type": "item",
+			"cost": 45000
+		},
+		"90028": {
+			"name": "Good Vibes Hoodie",
+			"desc": "Vibin'.",
+			"rare": false,
+			"vip": false,
+			"type": "item",
+			"cost": 50000
+		},
+		"90029": {
+			"name": "Vans Sneakers",
+			"desc": "He was a skater boy.",
+			"rare": false,
+			"vip": false,
+			"type": "item",
+			"cost": 40000
+		},
+		"90030": {
+			"name": "Cherry Blossom Hoodie",
+			"desc": "Peaceful.",
+			"rare": true,
+			"vip": true,
+			"type": "item",
+			"cost": 50000
+		},
+		"90031": {
+			"name": "Bubble Pop",
+			"desc": "Chew yourself.",
+			"rare": false,
+			"vip": false,
+			"type": "item",
+			"cost": 15000
+		},
+		"90032": {
+			"name": "Destination Hoodie",
+			"desc": "Around the world.",
+			"rare": false,
+			"vip": false,
+			"type": "item",
+			"cost": 45000
+		},
+		"90033": {
+			"name": "Destination Unknown Hoodie",
+			"desc": "Above and beyond.",
+			"rare": true,
+			"vip": true,
+			"type": "item",
+			"cost": 50000
+		},
+		"90034": {
+			"name": "Sakura Hoodie",
+			"desc": "Blooming",
+			"rare": false,
+			"vip": false,
+			"type": "item",
+			"cost": 50000
+		},
+		"6": {
+			"name": "Koolaid Man",
+			"desc": "Who doesn't love Koolaid?! You should !",
+			"rare": false,
+			"vip": false,
+			"type": "badge",
+			"cost": 50000
+		},
+		"13": {
+			"name": "Starbeat",
+			"desc": "No description available for this badge.",
+			"rare": true,
+			"vip": false,
+			"type": "badge",
+			"cost": 100000
+		},
+		"12": {
+			"name": "Cool Doge",
+			"desc": "Cool doge is cool doge.",
+			"rare": true,
+			"vip": false,
+			"type": "badge",
+			"cost": 65000
+		},
+		"nameglow": {
+			"name": "Name Glow",
+			"desc": "Allows you to set a glow around your name.",
+			"type": "upgrade",
+			"vip": false,
+			"cost": 100000
+		},
+		"namecolor": {
+			"name": "Name Color",
+			"desc": "Allows you to change the color of your name.",
+			"type": "upgrade",
+			"vip": false,
+			"cost": 80000
+		},
+		"bubblecolor": {
+			"name": "Bubble Color",
+			"desc": "Allows you to change the color of your speech bubble.",
+			"type": "upgrade",
+			"vip": false,
+			"cost": 100000
+		},
+		"bubbletext": {
+			"name": "Bubble Text",
+			"desc": "Allows you to change the color of your speech bubble's text.",
+			"type": "upgrade",
+			"vip": false,
+			"cost": 80000
+		}
+	}
+}

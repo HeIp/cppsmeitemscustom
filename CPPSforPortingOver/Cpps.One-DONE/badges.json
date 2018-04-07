@@ -1,0 +1,221 @@
+{
+	"1": {
+		"name": "Test Badge",
+		"cost": "-1",
+		"added": "9/30/2015",
+		"info": "Badge numero uno",
+		"patched": true
+	},
+	"2": {
+		"name": "Trololol",
+		"cost": "-1",
+		"added": "9/30/2015",
+		"info": "Trolololol! Purchased from the credit shop in October 2015.",
+		"patched": true
+	},
+	"3": {
+		"name": "Moonbeat",
+		"cost": "-1",
+		"patched": true
+	},
+	"4": {
+		"name": "Lab Rat",
+		"cost": "-1",
+		"added": "9/30/2015",
+		"info": "Given to players who helped test CPPS.one during the private beta.",
+		"patched": true
+	},
+	"5": {
+		"name": "\"Special\" Lab Rat",
+		"cost": "-1",
+		"added": "01/20/2018",
+		"info": "Given to selected testers who privided valuable information to help squash a significant bug during the CPPS.one private beta.",
+		"patched": true
+	},
+	"6": {
+		"name": "Kool-Aid Man",
+		"cost": 50000,
+		"added": "01/19/2018",
+		"info": "Who doesn't love Kool-Aid? This badge was available for purchase from the credits shop in January 2018.",
+		"patched": false
+	},
+	"7": {
+		"name": "Cosby",
+		"cost": "-1",
+		"added": "9/30/2015",
+		"info": "lolwut",
+		"patched": true
+	},
+	"8": {
+		"name": "Yin Yang",
+		"cost": "-1",
+		"added": "9/30/2015",
+		"info": "This badge was available for purchase from the credits shop in October 2015.",
+		"patched": true
+	},
+	"9": {
+		"name": "Halloween 2016",
+		"cost": "-1",
+		"added": "10/31/2015",
+		"info": "Given to all users who logged in during the Halloween 2015 event.",
+		"patched": true
+	},
+	"10": {
+		"name": "Witch's Hat",
+		"cost": "-1",
+		"added": "10/01/2015",
+		"info": "Purchased from the credits shop during the Halloween 2015 season.",
+		"patched": true
+	},
+	"11": {
+		"name": "Burger",
+		"cost": "-1",
+		"added": "1/01/1922",
+		"info": "Feed me",
+		"patched": true
+	},
+	"12": {
+		"name": "Cool Doge",
+		"cost": 65000,
+		"added": "5/12/2017",
+		"info": "Cool doge is cool doge.",
+		"patched": true
+	},
+	"13": {
+		"name": "Starbeat",
+		"cost": 100000,
+		"added": "01/19/2018",
+		"patched": true
+	},
+	"14": {
+		"name": "Sunbeat",
+		"cost": "-1",
+		"added": "9/30/2015",
+		"info": "The monthly VIP badge for October, 2015.",
+		"patched": true
+	},
+	"15": {
+		"name": "Bart",
+		"cost": "-1",
+		"added": "10/02/2015",
+		"info": "I don't know",
+		"patched": true
+	},
+	"16": {
+		"name": "Jared",
+		"cost": "-1",
+		"added": "10/02/2015",
+		"info": "Mike's babe",
+		"patched": true
+	},
+	"17": {
+		"name": "Oklahoma State",
+		"cost": "-1",
+		"added": "10/02/2015",
+		"info": "Badge requested by Moderator Chris",
+		"patched": true
+	},
+	"18": {
+		"name": "Mike's Pet Goat",
+		"cost": "-1",
+		"added": "10/02/2015",
+		"info": "This is Gibby, Mike's widdle goat.",
+		"patched": true
+	},
+	"19": {
+		"name": "Hypno Feline",
+		"cost": "75000",
+		"added": "10/02/2015",
+		"info": "Don't stare into it's eyes for too long.",
+		"patched": true
+	},
+	"20": {
+		"name": "Vaporwave",
+		"cost": "-1",
+		"added": "10/06/2015",
+		"patched": true
+	},
+	"21": {
+		"name": "Colorwave",
+		"cost": "140000",
+		"added": "10/08/2015",
+		"patched": true
+	},
+	"22": {
+		"name": "XYZ",
+		"cost": "50000",
+		"added": "10/08/2015",
+		"info": "Woah dude",
+		"patched": true
+	},
+	"23": {
+		"name": "Mezz",
+		"cost": "-1",
+		"added": "10/12/2015",
+		"patched": true
+	},
+	"24": {
+		"name": "WINDOW$ 95",
+		"cost": "-1",
+		"added": "10/16/2015",
+		"patched": true
+	},
+	"25": {
+		"name": "Gamecocks",
+		"cost": "-1",
+		"added": "10/16/2015",
+		"patched": true
+	},
+	"26": {
+		"name": "Evan Peters",
+		"cost": "-1",
+		"added": "10/17/2015",
+		"patched": true
+	},
+	"27": {
+		"name": "Becca's Badge",
+		"cost": "-1",
+		"added": "10/17/2015",
+		"patched": true
+	},
+	"28": {
+		"name": "Ultimate Toilet",
+		"cost": 100000,
+		"added": "01/20/2018",
+		"info": "Chris's mighty toilet bowl.",
+		"patched": false
+	},
+	"29": {
+		"name": "SESH",
+		"cost": "-1",
+		"added": "10/23/2015",
+		"patched": true
+	},
+	"30": {
+		"name": "SADBOYS",
+		"cost": "-1",
+		"added": "10/25/2015",
+		"patched": true
+	},
+	"31": {
+		"name": "the cpps.one hacker",
+		"cost": "-1",
+		"added": "04/24/17",
+		"info": "It's him, the CPPS.one hacker. Don't let him talk to you.",
+		"patched": true
+	},
+	"32": {
+		"name": "Grand Theft Penguin",
+		"cost": 50000,
+		"added": "04/30/17",
+		"info": "This is the official logo of Grand Theft Penguin",
+		"patched": true
+	},
+	"33": {
+		"name": "League of Legends",
+		"cost": 65000,
+		"added": "01/19/18",
+		"info": "We'll see you on the rift, summoner.",
+		"patched": true
+	}
+}
