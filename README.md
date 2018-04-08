@@ -28,3 +28,7 @@ everything else is room swfs
 - [ ] alphapengu.in has no custom items
 - [ ] arctic.pw has to fix their items
 - [ ] Find where aventurepingouin.com keeps their items
+
+
+### Contributers: ###
+[![TheKamilia](https://avatars2.githubusercontent.com/u/29875362?s=460&v=4)](https://github.com/TheKamilia)
