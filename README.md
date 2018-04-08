@@ -1,4 +1,4 @@
-# Crumbs Content Created for Cpps.Me
+# Crumbs Content Created for Cpps.Me #
 > **NOTICE: *** If using please give credit :expressionless:
 
 > **play** folder contains where all the files should go in media server,
@@ -32,3 +32,5 @@ everything else is room swfs
 
 ### Contributers: ###
 [![TheKamilia](https://avatars2.githubusercontent.com/u/29875362?s=460&v=4)](https://github.com/TheKamilia)
+
+<img src="https://github.com/favicon.ico" height="24" width="48">
