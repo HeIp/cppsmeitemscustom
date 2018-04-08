@@ -9,7 +9,7 @@ everything else is room swfs
 >and adding other cpps items
 
 
-#Discord Contact : Help#6556 #
+#Discord Contact : **Help#6556** #
 
 
 >If you want to add me to your cpps staff
@@ -17,7 +17,7 @@ everything else is room swfs
 
 ![Thinking](https://media.giphy.com/media/a5viI92PAF89q/giphy.gif)
 
-##SELF NOTES / Updates :trollface: ###
+#SELF NOTES / Updates :trollface: ##
 - [x] Port Over clubpenguinonline.com
 - [x] Port Over Cpps.One
 - [x] Port Over Cpps.Ml
