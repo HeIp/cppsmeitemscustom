@@ -33,4 +33,5 @@ everything else is room swfs
 ### Contributers: ###
 [![TheKamilia](https://avatars2.githubusercontent.com/u/29875362?s=460&v=4)](https://github.com/TheKamilia)
 
-<img src="https://github.com/favicon.ico" height="24" width="48">
+<a href="https://github.com/TheKamilia">
+<img border="0" alt="TheKamilia" src="https://avatars2.githubusercontent.com/u/29875362?s=460&v=4" width="100" height="100">
