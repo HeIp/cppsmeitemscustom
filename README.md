@@ -24,7 +24,7 @@ everything else is room swfs
 - [x] Port Over clubpenguinonline.com
 - [ ] Port Over SuperCPPS
 
-<font color="red">- [x] Noticed alphapenguin uses **my files** and didn't give credit:hear_no_evil:</font>dont>
+- [x] <p color="red">Noticed alphapenguin uses **my files** and didn't give credit:hear_no_evil:</p>
 - [ ] alphapengu.in has no custom items
 - [ ] arctic.pw has to fix their items
 - [ ] Find where aventurepingouin.com keeps their items
