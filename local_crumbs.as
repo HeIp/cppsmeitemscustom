@@ -6757,8 +6757,8 @@ paper_crumbs[34174] = {name:"Olaf\'s Costume"};
 paper_crumbs[34175] = {name:"Merry Walrus Medal"};
 paper_crumbs[34206] = {name:"Be Heard Campaign Shirt"};
 paper_crumbs[90000] = {name:"Elsa\'s Braid"};
-paper_crumbs[custom File made by Help , 
-Discord: Help#6556];
+paper_crumbs[custom File made by Help];
+[Discord: Help#6556];
 paper_crumbs[90003] = {name:"Spectral Hoodie"};
 paper_crumbs[90102] = {name:"Nike Hoodie"};
 paper_crumbs[90059] = {name:"Cyan Nike Hoodie"};
