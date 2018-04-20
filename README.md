@@ -28,6 +28,7 @@ everything else is room swfs
 - [ ] alphapengu.in has no custom items
 - [ ] arctic.pw has to fix their items
 - [ ] Find where aventurepingouin.com keeps their items
+- [ ] Port Over CPReborns Items
 
 
 ### Contributers: ###
