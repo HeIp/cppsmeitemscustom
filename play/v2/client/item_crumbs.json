@@ -1134,6 +1134,18 @@
       "type": 8,
       "cost": 0,
       "is_member": false
+    },
+    "133780": {
+      "name": "The auschwitz 12\'s",
+      "type": 6,
+      "cost": 69,
+      "is_member": false
+    },
+    "133781": {
+      "name": "Help\'s Birthday Hat",
+      "type": 1,
+      "cost": 69,
+      "is_member": false
     }
   }
 }
