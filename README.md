@@ -24,7 +24,7 @@ everything else is room swfs
 - [x] Port Over clubpenguinonline.com
 - [ ] Port Over SuperCPPS
 
-- [x] Noticed alphapenguin uses <div style="color:red;">**my files** and didn't give credit</div> :hear_no_evil:
+- [x] **AlphaPenguin is_bait:1 will ban your account**
 - [ ] alphapengu.in has no custom items
 - [ ] arctic.pw has to fix their items
 - [ ] Find where aventurepingouin.com keeps their items
