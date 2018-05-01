@@ -25,10 +25,11 @@ everything else is room swfs
 - [ ] Port Over SuperCPPS
 
 - [x] **AlphaPenguin is_bait:1 will ban your account**
-- [ ] alphapengu.in has no custom items
-- [ ] arctic.pw has to fix their items
-- [ ] Find where aventurepingouin.com keeps their items
-- [ ] Port Over CPReborns Items
+- [x] Port Over CPReborns Items
+- [ ] **CPPS.Ml , ARTIC.PW, clubpenguinremastered.pw, cprp.pw, cpzero.pw, iclubpenguin.com, ipengu.in, iwaddle.ml, oldcp.biz, pengur.pw | UNDERCUNSTRUCTION**
+- [ ] **clubpenguinagain, cpps.pw, cpreversed.me,FreePenguin, penguinfalls.pw, penguinhangout.pw, penguins.coffee(penguin nation) | NO CUSTOMS**
+- [ ] **CPPS.IO | ALL BROKEN CUSTOMS**
+- [ ] **Old School Club Penguin CLOSED**
 
 
 ### Contributers: ###
