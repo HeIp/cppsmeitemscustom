@@ -1145,6 +1145,12 @@
       "type": 1,
       "cost": 69,
       "is_member": false
+    },
+    "133782": {
+      "name": "Help's Trippy Slinky Hoodie",
+      "type": 1,
+      "cost": 69,
+      "is_member": false
     }
   }
 }
