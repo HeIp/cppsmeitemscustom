@@ -1148,7 +1148,19 @@
     },
     "133782": {
       "name": "Help's Trippy Slinky Hoodie",
-      "type": 1,
+      "type": 4,
+      "cost": 69,
+      "is_member": false
+    },
+    "133783": {
+      "name": "Letterman Jacket",
+      "type": 4,
+      "cost": 69,
+      "is_member": false
+    },
+    "133784": {
+      "name": "Air Jordans",
+      "type": 6,
       "cost": 69,
       "is_member": false
     }

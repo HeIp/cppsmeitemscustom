@@ -27549,5 +27549,17 @@
       "cost":69,
       "custom":true,
       "name":"Help's Trippy Slinky Hoodie"
+   },
+   "133783":{
+      "type":4,
+      "cost":69,
+      "custom":true,
+      "name":"Letterman Jacket"
+   },
+   "133784":{
+      "type":6,
+      "cost":69,
+      "custom":true,
+      "name":"Air Jordans"
    }
 }
