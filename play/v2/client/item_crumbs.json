@@ -1163,6 +1163,17 @@
       "type": 6,
       "cost": 69,
       "is_member": false
-    }
+    },
+    "133785": {
+      "name": "Purple Gradient Jacket",
+      "type": 4,
+      "cost": 69,
+      "is_member": false
+  },
+    "133786": {
+      "name": "Neon Ross Hoodie",
+      "type": 4,
+      "cost": 69,
+      "is_member": false
   }
 }

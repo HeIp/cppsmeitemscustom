@@ -27561,5 +27561,17 @@
       "cost":69,
       "custom":true,
       "name":"Air Jordans"
+   },
+   "133785":{
+      "type":4,
+      "cost":69,
+      "custom":true,
+      "name":"Purple Gradient Jacket"
+   },
+   "133786":{
+      "type":4,
+      "cost":69,
+      "custom":true,
+      "name":"Neon Ross Hoodie"
    }
 }
