@@ -1115,11 +1115,12 @@
       "type": 4,
       "cost": 69,
       "is_member": false
-  },
+    },
     "133786": {
       "name": "Neon Ross Hoodie",
       "type": 4,
       "cost": 69,
       "is_member": false
+    }
   }
 }
