@@ -1,5 +1,17 @@
 {
   "paper_crumbs": {
+    "22": {
+        "name": "Gold",
+        "type": 0,
+        "cost": 0,
+        "is_member": false
+    },
+    "23": {
+        "name": "Arctic White",
+        "type": 0,
+        "cost": 0,
+        "is_member": false
+    },
     "19001": {
       "name": "One Million Hat",
       "type": 1,
