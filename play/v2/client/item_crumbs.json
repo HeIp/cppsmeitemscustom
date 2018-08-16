@@ -1,5 +1,6 @@
 {
-  "paper_crumbs": {
+  "paper_crumbs": 
+  {
     "22": {
       "name": "Gold",
       "type": 0,
@@ -1118,6 +1119,12 @@
     },
     "133786": {
       "name": "Neon Ross Hoodie",
+      "type": 4,
+      "cost": 69,
+      "is_member": false
+    },
+    "133787": {
+      "name": "Weeb Cat Hoodie",
       "type": 4,
       "cost": 69,
       "is_member": false
