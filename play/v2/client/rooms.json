@@ -1,402 +1,397 @@
 {
-	"town": {
-		"room_id": 100,
-		"music_id": 0,
-		"path": "town.swf"
-	},
-	"jail": {
-		"room_id": 898,
-		"music_id": 13337,
-		"path": "jail.swf"
-	},
-	"coffee": {
-		"room_id": 110,
-		"music_id": 0,
-		"path": "coffee.swf"
-	},
-	"book": {
-		"room_id": 111,
-		"music_id": 0,
-		"path": "book.swf"
-	},
-	"dance": {
-		"room_id": 120,
-		"music_id": 673,
-		"path": "dance.swf"
-	},
-	"lounge": {
-		"room_id": 121,
-		"music_id": 674,
-		"path": "lounge.swf"
-	},
-	"school": {
-		"room_id": 122,
-		"music_id": 0,
-		"path": "school.swf"
-	},
-	"shop": {
-		"room_id": 130,
-		"music_id": 0,
-		"path": "shop.swf"
-	},
-	"village": {
-		"room_id": 200,
-		"music_id": 0,
-		"path": "village.swf"
-	},
-	"agentlobbymulti": {
-		"room_id": 212,
-		"music_id": 0,
-		"path": "agentlobbymulti.swf"
-	},
-	"lodge": {
-		"room_id": 220,
-		"music_id": 0,
-		"path": "lodge.swf"
-	},
-	"attic": {
-		"room_id": 221,
-		"music_id": 0,
-		"path": "attic.swf"
-	},
-	"mtn": {
-		"room_id": 230,
-		"music_id": 0,
-		"path": "mtn.swf"
-	},
-	"plaza": {
-		"room_id": 300,
-		"music_id": 0,
-		"path": "plaza.swf"
-	},
-	"pet": {
-		"room_id": 310,
-		"music_id": 0,
-		"path": "pet.swf"
-	},
-	"dojo": {
-		"room_id": 320,
-		"music_id": 0,
-		"path": "dojo.swf"
-	},
-	"dojoext": {
-		"room_id": 321,
-		"music_id": 0,
-		"path": "dojoext.swf"
-	},
-	"dojohide": {
-		"room_id": 322,
-		"music_id": 0,
-		"path": "modroom.swf"
-	},
-	"agentcom": {
-		"room_id": 323,
-		"music_id": 0,
-		"path": "agentcom.swf"
-	},
-	"dojoextsolo": {
-		"room_id": 324,
-		"music_id": 0,
-		"path": "dojoextsolo.swf"
-	},
-	"dojosnow": {
-		"room_id": 326,
-		"music_id": 407,
-		"path": "dojosnow.swf"
-	},
-	"pizza": {
-		"room_id": 330,
-		"music_id": 0,
-		"path": "pizza.swf"
-	},
-	"stage": {
-		"room_id": 340,
-		"music_id": 697,
-		"path": "stage.swf"
-	},
-	"beach": {
-		"room_id": 400,
-		"music_id": 0,
-		"path": "beach.swf"
-	},
-	"light": {
-		"room_id": 410,
-		"music_id": 0,
-		"path": "light.swf"
-	},
-	"beacon": {
-		"room_id": 411,
-		"music_id": 0,
-		"path": "beacon.swf"
-	},
-	"ship": {
-		"room_id": 420,
-		"music_id": 0,
-		"path": "ship.swf"
-	},
-	"shiphold": {
-		"room_id": 421,
-		"music_id": 0,
-		"path": "shiphold.swf"
-	},
-	"shipquarters": {
-		"room_id": 422,
-		"music_id": 0,
-		"path": "shipquarters.swf"
-	},
-	"shipnest": {
-		"room_id": 423,
-		"music_id": 0,
-		"path": "shipnest.swf"
-	},
-	"hotellobby": {
-		"room_id": 430,
-		"music_id": 362,
-		"path": "hotellobby.swf"
-	},
-	"hotelspa": {
-		"room_id": 431,
-		"music_id": 361,
-		"path": "hotelspa.swf"
-	},
-	"hotelroof": {
-		"room_id": 432,
-		"music_id": 360,
-		"path": "hotelroof.swf"
-	},
-	"cloudforest": {
-		"room_id": 433,
-		"music_id": 363,
-		"path": "cloudforest.swf"
-	},
-	"park": {
-		"room_id": 434,
-		"music_id": 658,
-		"path": "park.swf"
-	},
-	"dock": {
-		"room_id": 800,
-		"music_id": 0,
-		"path": "dock.swf"
-	},
-	"forts": {
-		"room_id": 801,
-		"music_id": 0,
-		"path": "forts.swf"
-	},
-	"rink": {
-		"room_id": 802,
-		"music_id": 0,
-		"path": "rink.swf"
-	},
-	"agent": {
-		"room_id": 803,
-		"music_id": 7,
-		"path": "agent.swf"
-	},
-	"boiler": {
-		"room_id": 804,
-		"music_id": 0,
-		"path": "boiler.swf"
-	},
-	"berg": {
-		"room_id": 805,
-		"music_id": 0,
-		"path": "berg.swf"
-	},
-	"cave": {
-		"room_id": 806,
-		"music_id": 0,
-		"path": "cave.swf"
-	},
-	"shack": {
-		"room_id": 807,
-		"music_id": 0,
-		"path": "shack.swf"
-	},
-	"mine": {
-		"room_id": 808,
-		"music_id": 0,
-		"path": "mine.swf"
-	},
-	"forest": {
-		"room_id": 809,
-		"music_id": 0,
-		"path": "forest.swf"
-	},
-	"cove": {
-		"room_id": 810,
-		"music_id": 0,
-		"path": "cove.swf"
-	},
-	"boxdimension": {
-		"room_id": 811,
-		"music_id": 264,
-		"path": "boxdimension.swf"
-	},
-	"dojofire": {
-		"room_id": 812,
-		"music_id": 405,
-		"path": "dojofire.swf"
-	},
-	"cavemine": {
-		"room_id": 813,
-		"music_id": 532,
-		"path": "cavemine.swf"
-	},
-	"lake": {
-		"room_id": 814,
-		"music_id": 666,
-		"path": "lake.swf"
-	},
-	"underwater": {
-		"room_id": 815,
-		"music_id": 671,
-		"path": "underwater.swf"
-	},
-	"dojowater": {
-		"room_id": 816,
-		"music_id": 406,
-		"path": "dojowater.swf"
-	},
-	"party1": {
-		"room_id": 851,
-		"music_id": 686,
-		"path": "party1.swf"
-	},
-	"party2": {
-		"room_id": 852,
-		"music_id": 687,
-		"path": "party2.swf"
-	},
-	"party3": {
-		"room_id": 853,
-		"music_id": 688,
-		"path": "party3.swf"
-	},
-	"party4": {
-		"room_id": 854,
-		"music_id": 689,
-		"path": "party4.swf"
-	},
-	"party5": {
-		"room_id": 855,
-		"music_id": 690,
-		"path": "party5.swf"
-	},
-	"party6": {
-		"room_id": 856,
-		"music_id": 691,
-		"path": "party6.swf"
-	},
-	"party7": {
-		"room_id": 857,
-		"music_id": 692,
-		"path": "party7.swf"
-	},
-	"party8": {
-		"room_id": 858,
-		"music_id": 693,
-		"path": "party8.swf"
-	},
-	"party9": {
-		"room_id": 859,
-		"music_id": 694,
-		"path": "party9.swf"
-	},
-	"party10": {
-		"room_id": 860,
-		"music_id": 695,
-		"path": "party10.swf"
-	},
-	"party11": {
-		"room_id": 861,
-		"music_id": 696,
-		"path": "party11.swf"
-	},
-	"party12": {
-		"room_id": 862,
-		"music_id": 0,
-		"path": "party12.swf"
-	},
-	"party13": {
-		"room_id": 863,
-		"music_id": 305,
-		"path": "party13.swf"
-	},
-	"party14": {
-		"room_id": 864,
-		"music_id": 286,
-		"path": "party14.swf"
-	},
-	"party15": {
-		"room_id": 865,
-		"music_id": 286,
-		"path": "party15.swf"
-	},
-	"party16": {
-		"room_id": 866,
-		"music_id": 287,
-		"path": "party16.swf"
-	},
-	"party17": {
-		"room_id": 867,
-		"music_id": 288,
-		"path": "party17.swf"
-	},
-	"party18": {
-		"room_id": 868,
-		"music_id": 265,
-		"path": "party18.swf"
-	},
-	"party24": {
-		"room_id": 874,
-		"music_id": 0,
-		"path": "party24.swf"
-	},
-	"party25": {
-		"room_id": 875,
-		"music_id": 0,
-		"path": "party25.swf"
-	},
-	"party26": {
-		"room_id": 876,
-		"music_id": 0,
-		"path": "party26.swf"
-	},
-	"party27": {
-		"room_id": 877,
-		"music_id": 0,
-		"path": "party27.swf"
-	},
-	"party28": {
-		"room_id": 878,
-		"music_id": 0,
-		"path": "party28.swf"
-	},
-	"party99": {
-		"room_id": 890,
-		"music_id": 0,
-		"path": "party99.swf"
-	},
-	"party": {
-		"room_id": 899,
-		"music_id": 267,
-		"path": "party.swf"
-	},
-	"partygame": {
-		"room_id": 962,
-		"music_id": 0,
-		"path": "partygame.swf"
-	},
-	"party19": {
-		"room_id": 999,
-		"music_id": 308,
-		"path": "party19.swf"
-	},
-	"cavemine": {
-		"room_id": 1104,
-		"music_id": 532,
-		"path": "cavemine.swf"
-	}
+    "agent": {
+        "music_id": 7,
+        "path": "agent.swf",
+        "room_id": 803
+    },
+    "agentcom": {
+        "music_id": 0,
+        "path": "agentcom.swf",
+        "room_id": 323
+    },
+    "agentlobbymulti": {
+        "music_id": 0,
+        "path": "agentlobbymulti.swf",
+        "room_id": 212
+    },
+    "attic": {
+        "music_id": 0,
+        "path": "attic.swf",
+        "room_id": 221
+    },
+    "beach": {
+        "music_id": 0,
+        "path": "beach.swf",
+        "room_id": 400
+    },
+    "beacon": {
+        "music_id": 0,
+        "path": "beacon.swf",
+        "room_id": 411
+    },
+    "berg": {
+        "music_id": 0,
+        "path": "berg.swf",
+        "room_id": 805
+    },
+    "boiler": {
+        "music_id": 0,
+        "path": "boiler.swf",
+        "room_id": 804
+    },
+    "book": {
+        "music_id": 0,
+        "path": "book.swf",
+        "room_id": 111
+    },
+    "boxdimension": {
+        "music_id": 264,
+        "path": "boxdimension.swf",
+        "room_id": 811
+    },
+    "cave": {
+        "music_id": 0,
+        "path": "cave.swf",
+        "room_id": 806
+    },
+    "cavemine": {
+        "music_id": 532,
+        "path": "cavemine.swf",
+        "room_id": 1104
+    },
+    "cloudforest": {
+        "music_id": 363,
+        "path": "cloudforest.swf",
+        "room_id": 433
+    },
+    "coffee": {
+        "music_id": 0,
+        "path": "coffee.swf",
+        "room_id": 110
+    },
+    "cove": {
+        "music_id": 0,
+        "path": "cove.swf",
+        "room_id": 810
+    },
+    "dance": {
+        "music_id": 673,
+        "path": "dance.swf",
+        "room_id": 120
+    },
+    "dock": {
+        "music_id": 0,
+        "path": "dock.swf",
+        "room_id": 800
+    },
+    "dojo": {
+        "music_id": 0,
+        "path": "dojo.swf",
+        "room_id": 320
+    },
+    "dojoext": {
+        "music_id": 0,
+        "path": "dojoext.swf",
+        "room_id": 321
+    },
+    "dojoextsolo": {
+        "music_id": 0,
+        "path": "dojoextsolo.swf",
+        "room_id": 324
+    },
+    "dojofire": {
+        "music_id": 405,
+        "path": "dojofire.swf",
+        "room_id": 812
+    },
+    "dojohide": {
+        "music_id": 0,
+        "path": "modroom.swf",
+        "room_id": 322
+    },
+    "dojosnow": {
+        "music_id": 407,
+        "path": "dojosnow.swf",
+        "room_id": 326
+    },
+    "dojowater": {
+        "music_id": 406,
+        "path": "dojowater.swf",
+        "room_id": 816
+    },
+    "forest": {
+        "music_id": 0,
+        "path": "forest.swf",
+        "room_id": 809
+    },
+    "forts": {
+        "music_id": 0,
+        "path": "forts.swf",
+        "room_id": 801
+    },
+    "hotellobby": {
+        "music_id": 362,
+        "path": "hotellobby.swf",
+        "room_id": 430
+    },
+    "hotelroof": {
+        "music_id": 360,
+        "path": "hotelroof.swf",
+        "room_id": 432
+    },
+    "hotelspa": {
+        "music_id": 361,
+        "path": "hotelspa.swf",
+        "room_id": 431
+    },
+    "jail": {
+        "music_id": 13337,
+        "path": "jail.swf",
+        "room_id": 898
+    },
+    "lake": {
+        "music_id": 666,
+        "path": "lake.swf",
+        "room_id": 814
+    },
+    "light": {
+        "music_id": 0,
+        "path": "light.swf",
+        "room_id": 410
+    },
+    "lodge": {
+        "music_id": 0,
+        "path": "lodge.swf",
+        "room_id": 220
+    },
+    "lounge": {
+        "music_id": 674,
+        "path": "lounge.swf",
+        "room_id": 121
+    },
+    "mine": {
+        "music_id": 0,
+        "path": "mine.swf",
+        "room_id": 808
+    },
+    "mtn": {
+        "music_id": 0,
+        "path": "mtn.swf",
+        "room_id": 230
+    },
+    "park": {
+        "music_id": 658,
+        "path": "park.swf",
+        "room_id": 434
+    },
+    "party": {
+        "music_id": 267,
+        "path": "party.swf",
+        "room_id": 899
+    },
+    "party1": {
+        "music_id": 686,
+        "path": "party1.swf",
+        "room_id": 851
+    },
+    "party10": {
+        "music_id": 695,
+        "path": "party10.swf",
+        "room_id": 860
+    },
+    "party11": {
+        "music_id": 696,
+        "path": "party11.swf",
+        "room_id": 861
+    },
+    "party12": {
+        "music_id": 0,
+        "path": "party12.swf",
+        "room_id": 862
+    },
+    "party13": {
+        "music_id": 305,
+        "path": "party13.swf",
+        "room_id": 863
+    },
+    "party14": {
+        "music_id": 286,
+        "path": "party14.swf",
+        "room_id": 864
+    },
+    "party15": {
+        "music_id": 286,
+        "path": "party15.swf",
+        "room_id": 865
+    },
+    "party16": {
+        "music_id": 287,
+        "path": "party16.swf",
+        "room_id": 866
+    },
+    "party17": {
+        "music_id": 288,
+        "path": "party17.swf",
+        "room_id": 867
+    },
+    "party18": {
+        "music_id": 265,
+        "path": "party18.swf",
+        "room_id": 868
+    },
+    "party19": {
+        "music_id": 308,
+        "path": "party19.swf",
+        "room_id": 999
+    },
+    "party2": {
+        "music_id": 687,
+        "path": "party2.swf",
+        "room_id": 852
+    },
+    "party24": {
+        "music_id": 0,
+        "path": "party24.swf",
+        "room_id": 874
+    },
+    "party25": {
+        "music_id": 0,
+        "path": "party25.swf",
+        "room_id": 875
+    },
+    "party26": {
+        "music_id": 0,
+        "path": "party26.swf",
+        "room_id": 876
+    },
+    "party27": {
+        "music_id": 0,
+        "path": "party27.swf",
+        "room_id": 877
+    },
+    "party28": {
+        "music_id": 0,
+        "path": "party28.swf",
+        "room_id": 878
+    },
+    "party3": {
+        "music_id": 688,
+        "path": "party3.swf",
+        "room_id": 853
+    },
+    "party4": {
+        "music_id": 689,
+        "path": "party4.swf",
+        "room_id": 854
+    },
+    "party5": {
+        "music_id": 690,
+        "path": "party5.swf",
+        "room_id": 855
+    },
+    "party6": {
+        "music_id": 691,
+        "path": "party6.swf",
+        "room_id": 856
+    },
+    "party7": {
+        "music_id": 692,
+        "path": "party7.swf",
+        "room_id": 857
+    },
+    "party8": {
+        "music_id": 693,
+        "path": "party8.swf",
+        "room_id": 858
+    },
+    "party9": {
+        "music_id": 694,
+        "path": "party9.swf",
+        "room_id": 859
+    },
+    "party99": {
+        "music_id": 0,
+        "path": "party99.swf",
+        "room_id": 890
+    },
+    "partygame": {
+        "music_id": 0,
+        "path": "partygame.swf",
+        "room_id": 962
+    },
+    "pet": {
+        "music_id": 0,
+        "path": "pet.swf",
+        "room_id": 310
+    },
+    "pizza": {
+        "music_id": 0,
+        "path": "pizza.swf",
+        "room_id": 330
+    },
+    "plaza": {
+        "music_id": 0,
+        "path": "plaza.swf",
+        "room_id": 300
+    },
+    "rink": {
+        "music_id": 0,
+        "path": "rink.swf",
+        "room_id": 802
+    },
+    "school": {
+        "music_id": 0,
+        "path": "school.swf",
+        "room_id": 122
+    },
+    "shack": {
+        "music_id": 0,
+        "path": "shack.swf",
+        "room_id": 807
+    },
+    "ship": {
+        "music_id": 0,
+        "path": "ship.swf",
+        "room_id": 420
+    },
+    "shiphold": {
+        "music_id": 0,
+        "path": "shiphold.swf",
+        "room_id": 421
+    },
+    "shipnest": {
+        "music_id": 0,
+        "path": "shipnest.swf",
+        "room_id": 423
+    },
+    "shipquarters": {
+        "music_id": 0,
+        "path": "shipquarters.swf",
+        "room_id": 422
+    },
+    "shop": {
+        "music_id": 0,
+        "path": "shop.swf",
+        "room_id": 130
+    },
+    "stage": {
+        "music_id": 697,
+        "path": "stage.swf",
+        "room_id": 340
+    },
+    "town": {
+        "music_id": 0,
+        "path": "town.swf",
+        "room_id": 100
+    },
+    "underwater": {
+        "music_id": 671,
+        "path": "underwater.swf",
+        "room_id": 815
+    },
+    "village": {
+        "music_id": 0,
+        "path": "village.swf",
+        "room_id": 200
+    }
 }
