@@ -59,6 +59,11 @@
         "path": "cavemine.swf",
         "room_id": 1104
     },
+    "cloud": {
+        "music_id": 0,
+        "path": "cloud.swf",
+        "room_id": 240
+    },
     "cloudforest": {
         "music_id": 363,
         "path": "cloudforest.swf",
