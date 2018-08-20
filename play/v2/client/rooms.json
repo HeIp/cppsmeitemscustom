@@ -339,6 +339,11 @@
         "path": "plaza.swf",
         "room_id": 300
     },
+    "pufflewild": {
+        "music_id": 0,
+        "path": "pufflewild.swf",
+        "room_id": 436
+    },
     "rink": {
         "music_id": 0,
         "path": "rink.swf",
@@ -378,6 +383,11 @@
         "music_id": 0,
         "path": "shop.swf",
         "room_id": 130
+    },
+    "skatepark": {
+        "music_id": 0,
+        "path": "skatepark.swf",
+        "room_id": 435
     },
     "stage": {
         "music_id": 697,
