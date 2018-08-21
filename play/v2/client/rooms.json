@@ -90,7 +90,7 @@
         "room_id": 804
     },
     "book": {
-        "music_id": 1,
+        "music_id": 0,
         "name": "Book Room",
         "path": "book.swf",
         "room_id": 111
@@ -156,7 +156,7 @@
         "room_id": 433
     },
     "coffee": {
-        "music_id": 1,
+        "music_id": 0,
         "name": "Coffee Shop",
         "path": "coffee.swf",
         "room_id": 110
@@ -198,7 +198,7 @@
         "room_id": 800
     },
     "dojo": {
-        "music_id": 21,
+        "music_id": 0,
         "name": "The Dojo",
         "path": "dojo.swf",
         "room_id": 320
@@ -222,7 +222,7 @@
         "room_id": 812
     },
     "dojohide": {
-        "music_id": 21,
+        "music_id": 0,
         "name": "Ninja Hide",
         "path": "dojohide.swf",
         "room_id": 322
@@ -636,7 +636,7 @@
         "room_id": 310
     },
     "pizza": {
-        "music_id": 344,
+        "music_id": 0,
         "name": "Pizza Parlor",
         "path": "pizza.swf",
         "room_id": 330
