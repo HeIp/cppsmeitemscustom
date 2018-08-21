@@ -6,22 +6,28 @@
         "room_id": 803
     },
     "agentcom": {
-        "music_id": 642,
+        "music_id": 23,
         "name": "Agent Command",
         "path": "agentcom.swf",
         "room_id": 323
     },
     "agentlobbymulti": {
-        "music_id": 922,
+        "music_id": 0,
         "name": "Agent Lobby Multi",
         "path": "agentlobbymulti.swf",
         "room_id": 212
     },
+    "agentlobbysolo": {
+        "music_id": 0,
+        "name": "Agent Lobby Solo",
+        "path": "agentlobbysolo.swf",
+        "room_id": 211
+    },
     "agentvr": {
-        "music_id": 7,
-        "name": "Agent VR 2",
+        "music_id": 23,
+        "name": "Agent VR",
         "path": "agentvr.swf",
-        "room_id": 155
+        "room_id": 213
     },
     "aqua_grabber": {
         "game": 1,
@@ -36,7 +42,7 @@
         "room_id": 900
     },
     "attic": {
-        "music_id": 884,
+        "music_id": 0,
         "name": "Lodge Attic",
         "path": "attic.swf",
         "room_id": 221
@@ -48,13 +54,13 @@
         "room_id": 942
     },
     "beach": {
-        "music_id": 651,
+        "music_id": 0,
         "name": "The Beach",
         "path": "beach.swf",
         "room_id": 400
     },
     "beacon": {
-        "music_id": 583,
+        "music_id": 0,
         "name": "Beacon",
         "path": "beacon.swf",
         "room_id": 411
@@ -66,7 +72,7 @@
         "room_id": 901
     },
     "berg": {
-        "music_id": 584,
+        "music_id": 0,
         "name": "Ice Berg",
         "path": "berg.swf",
         "room_id": 805
@@ -78,13 +84,13 @@
         "room_id": 956
     },
     "boiler": {
-        "music_id": 667,
+        "music_id": 6,
         "name": "Boiler Room",
         "path": "boiler.swf",
         "room_id": 804
     },
     "book": {
-        "music_id": 669,
+        "music_id": 1,
         "name": "Book Room",
         "path": "book.swf",
         "room_id": 111
@@ -108,7 +114,7 @@
         "room_id": 919
     },
     "boxdimension": {
-        "music_id": 372,
+        "music_id": 264,
         "name": "Box Dimension",
         "path": "boxdimension.swf",
         "room_id": 811
@@ -121,18 +127,18 @@
     },
     "cart_surfer": {
         "game": 1,
-        "music_id": 105,
+        "music_id": 0,
         "name": "MineCar1",
         "room_id": 905
     },
     "cave": {
-        "music_id": 1153,
+        "music_id": 0,
         "name": "Underground Pool",
         "path": "cave.swf",
         "room_id": 806
     },
     "cavemine": {
-        "music_id": 532,
+        "music_id": 0,
         "name": "Gold Mine",
         "path": "cavemine.swf",
         "room_id": 813
@@ -150,19 +156,19 @@
         "room_id": 433
     },
     "coffee": {
-        "music_id": 1163,
+        "music_id": 1,
         "name": "Coffee Shop",
         "path": "coffee.swf",
         "room_id": 110
     },
     "cove": {
-        "music_id": 653,
+        "music_id": 0,
         "name": "Cove",
         "path": "cove.swf",
         "room_id": 810
     },
     "dance": {
-        "music_id": 1165,
+        "music_id": 5,
         "name": "Night Club",
         "path": "dance.swf",
         "room_id": 120
@@ -173,6 +179,12 @@
         "name": "Dancing",
         "room_id": 952
     },
+    "dinodig": {
+        "game": 1,
+        "music_id": 0,
+        "name": "Dino Treasure Hunt",
+        "room_id": 961
+    },
     "dj3k": {
         "game": 1,
         "music_id": 0,
@@ -180,40 +192,46 @@
         "room_id": 926
     },
     "dock": {
-        "music_id": 1162,
+        "music_id": 0,
         "name": "The Dock",
         "path": "dock.swf",
         "room_id": 800
     },
     "dojo": {
-        "music_id": 403,
+        "music_id": 21,
         "name": "The Dojo",
         "path": "dojo.swf",
         "room_id": 320
     },
     "dojoext": {
-        "music_id": 1166,
+        "music_id": 0,
         "name": "Dojo Exterior",
         "path": "dojoext.swf",
         "room_id": 321
     },
     "dojoextsolo": {
-        "music_id": 404,
+        "music_id": 0,
         "name": "Dojo Exterior Solo",
         "path": "dojoextsolo.swf",
         "room_id": 324
     },
     "dojofire": {
-        "music_id": 405,
+        "music_id": 22,
         "name": "Dojo Fire",
         "path": "dojofire.swf",
         "room_id": 812
     },
     "dojohide": {
-        "music_id": 924,
+        "music_id": 21,
         "name": "Ninja Hide",
         "path": "dojohide.swf",
         "room_id": 322
+    },
+    "dojohidesolo": {
+        "music_id": 0,
+        "name": "Dojo Hide Solo",
+        "path": "dojohidesolo.swf",
+        "room_id": 325
     },
     "dojosnow": {
         "music_id": 407,
@@ -222,16 +240,82 @@
         "room_id": 326
     },
     "dojowater": {
-        "music_id": 406,
+        "music_id": 24,
         "name": "Dojo Water",
         "path": "dojowater.swf",
         "room_id": 816
     },
-    "epf_only": {
+    "eco": {
+        "music_id": 284,
+        "name": "Eco",
+        "path": "eco.swf",
+        "room_id": 122
+    },
+    "mission1": {
         "game": 1,
         "music_id": 0,
-        "name": "Mission2",
+        "name": "Mission 1",
+        "room_id": 907
+    },
+    "mission2": {
+        "game": 1,
+        "music_id": 0,
+        "name": "Mission 2",
         "room_id": 908
+    },
+    "mission3": {
+        "game": 1,
+        "music_id": 0,
+        "name": "Mission 3",
+        "room_id": 911
+    },
+    "mission4": {
+        "game": 1,
+        "music_id": 0,
+        "name": "Mission 4",
+        "room_id": 913
+    },
+    "mission5": {
+        "game": 1,
+        "music_id": 0,
+        "name": "Mission 5",
+        "room_id": 914
+    },
+    "mission6": {
+        "game": 1,
+        "music_id": 0,
+        "name": "Mission 6",
+        "room_id": 915
+    },
+    "mission7": {
+        "game": 1,
+        "music_id": 0,
+        "name": "Mission 7",
+        "room_id": 920
+    },
+    "mission8": {
+        "game": 1,
+        "music_id": 0,
+        "name": "Mission 8",
+        "room_id": 921
+    },
+    "mission9": {
+        "game": 1,
+        "music_id": 0,
+        "name": "Mission 9",
+        "room_id": 922
+    },
+    "mission10": {
+        "game": 1,
+        "music_id": 0,
+        "name": "Mission 10",
+        "room_id": 923
+    },
+    "mission11": {
+        "game": 1,
+        "music_id": 0,
+        "name": "Mission 11",
+        "room_id": 927
     },
     "feed_a_puffle": {
         "game": 1,
@@ -252,13 +336,13 @@
         "room_id": 953
     },
     "forest": {
-        "music_id": 655,
+        "music_id": 0,
         "name": "Forest",
         "path": "forest.swf",
         "room_id": 809
     },
     "forts": {
-        "music_id": 1060,
+        "music_id": 0,
         "name": "Snow Forts",
         "path": "forts.swf",
         "room_id": 801
@@ -293,12 +377,6 @@
         "path": "hotelspa.swf",
         "room_id": 431
     },
-    "jail": {
-        "music_id": 13337,
-        "name": "Jail Prison",
-        "path": "jail.swf",
-        "room_id": 898
-    },
     "hydro_hopper": {
         "game": 1,
         "music_id": 0,
@@ -323,6 +401,12 @@
         "name": "igloo_card",
         "room_id": 994
     },
+    "jail": {
+        "music_id": 13337,
+        "name": "Jail Prison",
+        "path": "jail.swf",
+        "room_id": 898
+    },
     "jet_pack": {
         "game": 1,
         "music_id": 0,
@@ -330,25 +414,25 @@
         "room_id": 906
     },
     "lake": {
-        "music_id": 666,
+        "music_id": 0,
         "name": "Lake",
         "path": "lake.swf",
         "room_id": 814
     },
     "light": {
-        "music_id": 657,
+        "music_id": 0,
         "name": "Lighthouse",
         "path": "light.swf",
         "room_id": 410
     },
     "lodge": {
-        "music_id": 1074,
+        "music_id": 0,
         "name": "Ski Lodge",
         "path": "lodge.swf",
         "room_id": 220
     },
     "lounge": {
-        "music_id": 1075,
+        "music_id": 6,
         "name": "Lounge",
         "path": "lounge.swf",
         "room_id": 121
@@ -360,13 +444,13 @@
         "room_id": 945
     },
     "mine": {
-        "music_id": 675,
+        "music_id": 0,
         "name": "The Mine",
         "path": "mine.swf",
         "room_id": 808
     },
     "mtn": {
-        "music_id": 1174,
+        "music_id": 0,
         "name": "Ski Hill",
         "path": "mtn.swf",
         "room_id": 230
@@ -396,19 +480,19 @@
         "room_id": 851
     },
     "party10": {
-        "music_id": 302,
+        "music_id": 350,
         "name": "Party10",
         "path": "party10.swf",
         "room_id": 860
     },
     "party11": {
-        "music_id": 306,
+        "music_id": 348,
         "name": "Party11",
         "path": "party11.swf",
         "room_id": 861
     },
     "party12": {
-        "music_id": 0,
+        "music_id": 348,
         "name": "Party12",
         "path": "party12.swf",
         "room_id": 862
@@ -456,7 +540,7 @@
         "room_id": 999
     },
     "party2": {
-        "music_id": 343,
+        "music_id": 348,
         "name": "Party2",
         "path": "party2.swf",
         "room_id": 852
@@ -480,7 +564,7 @@
         "room_id": 876
     },
     "party27": {
-        "music_id": 206,
+        "music_id": 0,
         "name": "Party27",
         "path": "party27.swf",
         "room_id": 877
@@ -492,43 +576,43 @@
         "room_id": 878
     },
     "party3": {
-        "music_id": 343,
+        "music_id": 348,
         "name": "Party3",
         "path": "party3.swf",
         "room_id": 853
     },
     "party4": {
-        "music_id": 343,
+        "music_id": 349,
         "name": "Party4",
         "path": "party4.swf",
         "room_id": 854
     },
     "party5": {
-        "music_id": 343,
+        "music_id": 348,
         "name": "Party5",
         "path": "party5.swf",
         "room_id": 855
     },
     "party6": {
-        "music_id": 343,
+        "music_id": 350,
         "name": "Party6",
         "path": "party6.swf",
         "room_id": 856
     },
     "party7": {
-        "music_id": 899,
+        "music_id": 350,
         "name": "Party7",
         "path": "party7.swf",
         "room_id": 857
     },
     "party8": {
-        "music_id": 339,
+        "music_id": 350,
         "name": "Party8",
         "path": "party8.swf",
         "room_id": 858
     },
     "party9": {
-        "music_id": 338,
+        "music_id": 348,
         "name": "Party9",
         "path": "party9.swf",
         "room_id": 859
@@ -546,13 +630,13 @@
         "room_id": 962
     },
     "pet": {
-        "music_id": 660,
+        "music_id": 0,
         "name": "Pet Shop",
         "path": "pet.swf",
         "room_id": 310
     },
     "pizza": {
-        "music_id": 1081,
+        "music_id": 344,
         "name": "Pizza Parlor",
         "path": "pizza.swf",
         "room_id": 330
@@ -564,7 +648,7 @@
         "room_id": 910
     },
     "plaza": {
-        "music_id": 1060,
+        "music_id": 0,
         "name": "The Plaza",
         "path": "plaza.swf",
         "room_id": 300
@@ -612,7 +696,7 @@
         "room_id": 943
     },
     "rink": {
-        "music_id": 707,
+        "music_id": 0,
         "name": "Ice Rink",
         "path": "rink.swf",
         "room_id": 802
@@ -642,7 +726,7 @@
         "room_id": 958
     },
     "shack": {
-        "music_id": 1172,
+        "music_id": 0,
         "name": "Mine Shack",
         "path": "shack.swf",
         "room_id": 807
@@ -678,7 +762,7 @@
         "room_id": 422
     },
     "shop": {
-        "music_id": 1173,
+        "music_id": 345,
         "name": "Clothes Shop",
         "path": "shop.swf",
         "room_id": 130
@@ -719,6 +803,12 @@
         "path": "sport.swf",
         "room_id": 210
     },
+    "sports_shop": {
+        "game": 1,
+        "music_id": 0,
+        "name": "Sports Shop",
+        "room_id": 210
+    },
     "spydrills": {
         "game": 1,
         "music_id": 0,
@@ -726,8 +816,8 @@
         "room_id": 963
     },
     "stage": {
-        "music_id": 697,
-        "name": "Stage",
+        "music_id": 35,
+        "name": "The Stage",
         "path": "stage.swf",
         "room_id": 340
     },
@@ -738,7 +828,7 @@
         "room_id": 909
     },
     "town": {
-        "music_id": 9111,
+        "music_id": 0,
         "name": "Town Center",
         "path": "town.swf",
         "room_id": 100
@@ -750,13 +840,13 @@
         "room_id": 981
     },
     "underwater": {
-        "music_id": 671,
+        "music_id": 0,
         "name": "Underwater",
         "path": "underwater.swf",
         "room_id": 815
     },
     "village": {
-        "music_id": 1174,
+        "music_id": 0,
         "name": "Ski Village",
         "path": "village.swf",
         "room_id": 200
@@ -778,6 +868,12 @@
         "music_id": 0,
         "name": "Wave",
         "room_id": 912
+    },
+    "welcomesolo": {
+        "music_id": 0,
+        "name": "Welcome Solo",
+        "path": "welcomesolo.swf",
+        "room_id": 112
     },
     "wilds1": {
         "music_id": 894,
