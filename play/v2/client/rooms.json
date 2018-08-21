@@ -251,72 +251,6 @@
         "path": "eco.swf",
         "room_id": 122
     },
-    "mission1": {
-        "game": 1,
-        "music_id": 0,
-        "name": "Mission 1",
-        "room_id": 907
-    },
-    "mission2": {
-        "game": 1,
-        "music_id": 0,
-        "name": "Mission 2",
-        "room_id": 908
-    },
-    "mission3": {
-        "game": 1,
-        "music_id": 0,
-        "name": "Mission 3",
-        "room_id": 911
-    },
-    "mission4": {
-        "game": 1,
-        "music_id": 0,
-        "name": "Mission 4",
-        "room_id": 913
-    },
-    "mission5": {
-        "game": 1,
-        "music_id": 0,
-        "name": "Mission 5",
-        "room_id": 914
-    },
-    "mission6": {
-        "game": 1,
-        "music_id": 0,
-        "name": "Mission 6",
-        "room_id": 915
-    },
-    "mission7": {
-        "game": 1,
-        "music_id": 0,
-        "name": "Mission 7",
-        "room_id": 920
-    },
-    "mission8": {
-        "game": 1,
-        "music_id": 0,
-        "name": "Mission 8",
-        "room_id": 921
-    },
-    "mission9": {
-        "game": 1,
-        "music_id": 0,
-        "name": "Mission 9",
-        "room_id": 922
-    },
-    "mission10": {
-        "game": 1,
-        "music_id": 0,
-        "name": "Mission 10",
-        "room_id": 923
-    },
-    "mission11": {
-        "game": 1,
-        "music_id": 0,
-        "name": "Mission 11",
-        "room_id": 927
-    },
     "feed_a_puffle": {
         "game": 1,
         "music_id": 0,
@@ -448,6 +382,72 @@
         "name": "The Mine",
         "path": "mine.swf",
         "room_id": 808
+    },
+    "mission1": {
+        "game": 1,
+        "music_id": 0,
+        "name": "Mission 1",
+        "room_id": 907
+    },
+    "mission10": {
+        "game": 1,
+        "music_id": 0,
+        "name": "Mission 10",
+        "room_id": 923
+    },
+    "mission11": {
+        "game": 1,
+        "music_id": 0,
+        "name": "Mission 11",
+        "room_id": 927
+    },
+    "mission2": {
+        "game": 1,
+        "music_id": 0,
+        "name": "Mission 2",
+        "room_id": 908
+    },
+    "mission3": {
+        "game": 1,
+        "music_id": 0,
+        "name": "Mission 3",
+        "room_id": 911
+    },
+    "mission4": {
+        "game": 1,
+        "music_id": 0,
+        "name": "Mission 4",
+        "room_id": 913
+    },
+    "mission5": {
+        "game": 1,
+        "music_id": 0,
+        "name": "Mission 5",
+        "room_id": 914
+    },
+    "mission6": {
+        "game": 1,
+        "music_id": 0,
+        "name": "Mission 6",
+        "room_id": 915
+    },
+    "mission7": {
+        "game": 1,
+        "music_id": 0,
+        "name": "Mission 7",
+        "room_id": 920
+    },
+    "mission8": {
+        "game": 1,
+        "music_id": 0,
+        "name": "Mission 8",
+        "room_id": 921
+    },
+    "mission9": {
+        "game": 1,
+        "music_id": 0,
+        "name": "Mission 9",
+        "room_id": 922
     },
     "mtn": {
         "music_id": 0,
