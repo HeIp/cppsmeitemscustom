@@ -1,6 +1,5 @@
 {
-  "paper_crumbs": 
-  {
+  "paper_crumbs": {
     "22": {
       "name": "Gold",
       "type": 0,
@@ -1127,6 +1126,12 @@
       "name": "Weeb Cat Hoodie",
       "type": 4,
       "cost": 69,
+      "is_member": false
+    },
+    "9000126": {
+      "name": "Fashion Dude Background",
+      "type": 8,
+      "cost": 0,
       "is_member": false
     }
   }
