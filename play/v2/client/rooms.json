@@ -161,6 +161,12 @@
         "path": "coffee.swf",
         "room_id": 110
     },
+    "community": {
+        "music_id": 9111,
+        "name": "Community Center",
+        "path": "community.swf",
+        "room_id": 501
+    },
     "cove": {
         "music_id": 0,
         "name": "Cove",
