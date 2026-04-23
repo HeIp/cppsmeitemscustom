@@ -1,0 +1,64 @@
+<html>
+<head>
+<meta name="generator" content="HTML Tidy for Linux (vers 6 November 2007), see www.w3.org">
+<base target="_top">
+<title>CPPS.me - Play</title>
+<link rel="stylesheet" href="styles.css" type="text/css">
+<script type="text/css">
+body {
+        font-family:calibri;
+}
+</script>
+<style type="text/css">
+ div.c2 {text-align: center}
+ span.c1 {color: #5580B4}
+</style>
+</head>
+<body>
+<br>
+<h2>|
+  <a href="http://cpps.me/"><span class="c1">Main</span></a> |
+  <a href="http://cpps.me/commands.html"><span class="c1">Command List</span></a> |
+  <a href="http://manager.cpps.me/index.php?area=nameedit"><span class="c1">NameGlow Manager</span></a> |
+  <a href="http://cpps.me/botman.html" target="_blank"><span class="c1">Botman</span></a> |
+  <a href="https://msecure.cpps.me/?page=reg"><span class="c1">Create Penguin</span></a> |
+</h2>
+<br>
+<script language="JavaScript" type="text/javascript">
+TargetDate = "3/31/2012 6:00 PM GMT";
+BackColor = "palegreen";
+ForeColor = "navy";
+CountActive = true;
+CountStepper = -1;
+LeadingZero = true;
+DisplayFormat = "%%D%% Days, %%H%% Hours, %%M%% Minutes, %%S%% Seconds (until the massive event on Saturday!).";
+FinishMessage = "Get online, the countdown is over, giveaways + more!";
+</script><br>
+<br>
+<iframe width=100% height=35 src=http://config.cpps.me/online.html></iframe>
+<hr>
+<form><select id="menu" name="menu" onchange="javascript:doObject();">
+<option value="en">English</option>
+<option value="pt">Português</option>
+<option value="fr">Français</option>
+<option value="es">Español</option>
+<option value="de">Deutsch</option>
+</select> <a href="javascript:doObject()" target="_self"><span class="c1">Logout</span></a></form>
+</div>
+<div id="game">Verifying Language ...</div>
+<script language="JavaScript" type="text/javascript">
+  function doObject() {
+    var m = document.getElementById("menu");
+    var v = m.options[m.selectedIndex].value;
+    var url = "http://media.cpps.me/play/loader.swf?lang=" + v;
+    var txt = '<object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" width="100%" height="100%" id="test1" '
+      + 'codebase="http://fpdownload.macromedia.com/pub/shockwave/cabs/flash/swflash.cab">'
+      + '<param name=movie value="' + url + '" />'
+      + '<embed src="' + url + '" width="100%" height="100%" name="test1" type="application/x-shockwave-flash" '
+      + 'pluginspage="http://www.adobe.com/go/getflashplayer" /><\/object>';
+    document.getElementById("game").innerHTML = txt;
+  }
+  doObject();
+</script><br>
+<br>
+<br>

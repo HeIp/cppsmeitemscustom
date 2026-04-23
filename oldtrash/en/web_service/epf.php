@@ -1,0 +1,1 @@
+{"room_id":false,"x_pos":false,"y_pos":false,"game_id":false,"mascot_id":false,"task":false,"description":false,"end_message":false}

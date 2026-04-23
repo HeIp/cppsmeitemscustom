@@ -1,0 +1,156 @@
+body {
+	background-color: #EEEEEE;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	line-height: normal;
+	color: #000000;
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	background-image: url(../images/bkg_white.gif);
+	background-repeat: repeat-y;
+	background-position: center;
+	}
+	
+.header {
+	background-color: #0099CC;
+	background-image:  url(../images/header_bkg.gif);
+	background-repeat: repeat-x;
+	background-position: top;
+}
+
+
+.bg {
+	background-image:  url(../images/bkg_white.gif);
+	background-repeat: repeat-y;
+	background-position: center;
+}
+
+h1 {
+	font-size: 24px;
+	font-weight: bold;
+}
+
+a {
+	font-weight: bold;
+	color: #007AA3;
+}
+
+a:hover {
+	color: #FF9900;
+}
+
+.note {
+	font-size: 12px;
+	color: #333333;	
+}
+
+h2 {
+	font-size: 16px;
+	font-weight: bold;
+	width: 100%;
+	padding-top: 4px;
+	padding-bottom: 4px;
+	border-bottom-width: 1px;
+	border-bottom-style: solid;
+	border-bottom-color: #CCCCCC;
+}
+
+h3 {
+	font-size: 16px;
+	font-weight: bold;
+}
+
+.content {
+	background-image:  url(../images/nav-shadow.gif);
+	background-repeat: repeat-x;
+	background-position: top;
+	padding-top: 10px;
+	padding-right: 20px;
+	padding-bottom: 40px;
+	padding-left: 20px;
+}
+
+.copyright {
+	background-color: #025374;
+	background-image:   url(../images/footer_bkg.gif);
+	background-repeat: repeat-x;
+	background-position: top;
+	font-size: 11px;
+	color: #c1e3eb;
+	font-family: Arial, Helvetica, sans-serif;
+	line-height: 16px;
+}
+
+a.copyright:link {
+	color: #FFFFFF;
+		}
+	
+a.copyright:visited {
+	}
+
+a.copyright:hover {
+	color: #FFA800;
+	text-decoration: none;
+}
+
+.footernav {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 13px;
+	font-weight: normal;
+	color: #FFFFFF;
+	text-decoration: none;
+}
+
+.footernav A:link {
+	text-decoration: underline;
+	
+	
+}
+
+.footernav A:visited {
+	text-decoration: underline;
+}
+.footernav A:active {
+	color: #007AA3;
+	text-decoration: underline;
+}
+.footernav A:hover {
+	color: #FFCC00;
+	text-decoration: none;
+}
+.iconlinks {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+	color: #007AA3;
+	text-decoration: none;
+	border:none;
+}
+
+.iconlinks A:link {
+	color: #007AA3;
+	text-decoration: none;
+	border:none;
+}
+
+.iconlinks A:visited {
+	color: #007AA3;
+	text-decoration: none;
+	border:none;
+}
+.iconlinks A:active {
+	color: #007AA3;
+	text-decoration: none;
+	border:none;
+}
+.iconlinks A:hover {
+	color: #FF9900;
+	text-decoration: none;
+	border:none;
+}
+ul {
+	list-style-image:url(../images/bullet.gif);
+	}
+

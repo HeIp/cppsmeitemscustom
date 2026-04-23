@@ -1,0 +1,71 @@
+<base target=_top>
+<html>
+<head>
+<title>CPPS.me - Play</title>
+<link rel="stylesheet" href="styles.css" type="text/css" />
+<script type="text/css">
+body {
+	font-family:calibri;
+}
+</script>
+</head>
+<body>
+<br>
+<center>
+<a href="http://www.cppshq.com/"><img src="http://cppshq.com/backonlinesmall.png" alt="CPPSHQ.com" /></a><br>
+<h2>
+  <a href="http://cpps.me/index.php?page=commands" target=_blank><font color="#5580B4">Command List</font></a> 
+ | <a href="http://manager.cpps.me/index.php?area=nameedit"><font color="#5580B4">NameGlow Manager</font></a>
+ | <a href="http://cpps.me/botman.html" target=_blank><font color="#5580B4">Botman</font></a>
+ | <a href="http://media.cpps.me/play/loader.exe"><font color="#5580B4">Downloadable client</font></a>
+</h2>
+<br>
+<script language="JavaScript">
+TargetDate = "3/31/2012 6:00 PM GMT";
+BackColor = "palegreen";
+ForeColor = "navy";
+CountActive = true;
+CountStepper = -1;
+LeadingZero = true;
+DisplayFormat = "%%D%% Days, %%H%% Hours, %%M%% Minutes, %%S%% Seconds (until the massive event on Saturday!).";
+FinishMessage = "Get online, the countdown is over, giveaways + more!";
+</script>
+<!-- <script language="JavaScript" src="/js/countdown.js"></script> -->
+<br><h2>The radio will be back during bigger events or on weekends, who knows?</h2><br>
+<iframe width=100% height=20 src=http://config.cpps.me/online.html></iframe>
+<hr>
+<form>
+<select id="menu" name="menu" onChange="javascript:doObject();">
+<option value="en">English</option>
+<option value="pt">Portugu&#234;s</option>
+<option value="fr">Fran&#231;ais</option>
+<option value="es">Espa&#241;ol</option>
+<option value="de">Deutsch</option>
+</select>
+<a href="javascript:doObject()" target="_self"><font color="#5580B4">Logout</font></a>
+</form></center>
+
+<div id="game">Verifying Language ...</div>
+<script language="JavaScript">
+  function doObject() {
+    var m = document.getElementById("menu");
+    var v = m.options[m.selectedIndex].value;
+    var url = "http://media.cpps.me/play/loader.swf?lang=" + v;
+    var txt = '<object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" width="100%" height="100%" id="test1" '
+      + 'codebase="http://fpdownload.macromedia.com/pub/shockwave/cabs/flash/swflash.cab">'
+      + '<param name=movie value="' + url + '" />'
+      + '<embed src="' + url + '" width="100%" height="100%" name="test1" type="application/x-shockwave-flash" '
+      + 'pluginspage="http://www.adobe.com/go/getflashplayer" /></object>';
+    document.getElementById("game").innerHTML = txt;
+  }
+  doObject();
+</script>
+
+<br>
+<center>
+<embed wmode="transparent" src="http://www.xatech.com/web_gear/chat/chat.swf" quality="high" width="640" height="480" name="chat" FlashVars="id=65584846" align="middle" allowScriptAccess="sameDomain" type="application/x-shockwave-flash" pluginspage="http://xat.com/update_flash.shtml" />
+<br> <br> <br> <br>
+</center>
+</div>
+</body>
+</html>

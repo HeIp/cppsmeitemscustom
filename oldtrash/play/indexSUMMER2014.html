@@ -1,0 +1,318 @@
+<!DOCTYPE html>
+
+<html>
+	<head>
+		<title>CPPS.me - World's #1 Club Penguin Private Server - Play</title>
+		<meta charset="UTF-8" />
+		<meta name="Description" content="CPPS.me's playpage, home of endless fun - lean back and enjoy the game!">
+		<meta name="Keywords" content="play cpps.me cpps club penguin private server endless fun free">
+		<style type="text/css">
+			* {
+				margin: 0;
+				padding: 0;
+			}
+			html, body, #wrapper {
+				font-size: 11pt;
+				font-family: Calibri, "Helvetica Neue", "Bitstream Vera Sans", Bitstream, Arial, Verdana, sans-serif;
+				min-height: 100%;
+				width: 100%;
+			}
+			body {
+				background: URL(http://i.imgur.com/hR3pqrP.jpg) bottom center repeat-x #a4d8ff;
+			}
+			#wrapper {
+				background: RGBA(255, 255, 255, 0.8);
+			}
+			#header {
+				background: rgb(249,249,249);
+				background: url(data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiA/Pgo8c3ZnIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgdmlld0JveD0iMCAwIDEgMSIgcHJlc2VydmVBc3BlY3RSYXRpbz0ibm9uZSI+CiAgPGxpbmVhckdyYWRpZW50IGlkPSJncmFkLXVjZ2ctZ2VuZXJhdGVkIiBncmFkaWVudFVuaXRzPSJ1c2VyU3BhY2VPblVzZSIgeDE9IjAlIiB5MT0iMCUiIHgyPSIwJSIgeTI9IjEwMCUiPgogICAgPHN0b3Agb2Zmc2V0PSIwJSIgc3RvcC1jb2xvcj0iI2Y5ZjlmOSIgc3RvcC1vcGFjaXR5PSIxIi8+CiAgICA8c3RvcCBvZmZzZXQ9IjEwMCUiIHN0b3AtY29sb3I9IiNkZGRkZGQiIHN0b3Atb3BhY2l0eT0iMSIvPgogIDwvbGluZWFyR3JhZGllbnQ+CiAgPHJlY3QgeD0iMCIgeT0iMCIgd2lkdGg9IjEiIGhlaWdodD0iMSIgZmlsbD0idXJsKCNncmFkLXVjZ2ctZ2VuZXJhdGVkKSIgLz4KPC9zdmc+);
+				background: -moz-linear-gradient(top,  rgba(249,249,249,1) 0%, rgba(221,221,221,1) 100%);
+				background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,rgba(249,249,249,1)), color-stop(100%,rgba(221,221,221,1)));
+				background: -webkit-linear-gradient(top,  rgba(249,249,249,1) 0%,rgba(221,221,221,1) 100%);
+				background: -o-linear-gradient(top,  rgba(249,249,249,1) 0%,rgba(221,221,221,1) 100%);
+				background: -ms-linear-gradient(top,  rgba(249,249,249,1) 0%,rgba(221,221,221,1) 100%);
+				background: linear-gradient(to bottom,  rgba(249,249,249,1) 0%,rgba(221,221,221,1) 100%);
+				filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f9f9f9', endColorstr='#dddddd',GradientType=0 );
+				height: 35px;
+				margin-bottom: 3px;
+				position: fixed;
+				top: 0;
+				width: 100%;
+				z-index: 999;
+			}
+			#header ul {
+				display: block;
+				margin: 0 auto;
+				width: 1000px;
+			}
+			#header li, #header li a {
+				display: inline;
+			}
+			#header li a {
+				border-left: 1px solid #CCC;
+				border-right: 1px solid #FFF;
+				color: #333;
+				line-height: 35px;
+				text-decoration: none;
+				position: relative;
+				display: inline-block;
+				float: left;
+				padding: 0px 15px;
+			}
+			#header li a.active, #header li a:hover {
+				color: rgb(38, 161, 194);
+			}
+			#header li:first-child a {
+				box-shadow: -1px 0px 0px #FFF;
+			}
+			#header li.last a {
+				box-shadow: 1px 0px 0px #CCC;
+			}
+			#header li.right a {
+				box-shadow: -1px 0px 0px #FFF, 1px 0px 0px #CCC;
+				float: right;
+				font-weight: bold;
+			}
+			#header li.right span {
+				float: right;
+				line-height: 35px;
+				padding: 0 15px;
+			}
+			#game {
+				height: 100%;
+				height: -moz-calc(100vh - 125px);
+				/*height: -webkit-calc(100% - 125px); - :) you webkit developers */
+				height: calc(100vh - 125px);
+				min-height: 460px;
+				width: 1000px;
+				min-width: 717px;
+				margin: 0 auto;
+				overflow: hidden;
+				border-radius: 5px;
+				position: relative;
+			}
+			#game embed {
+				height: 102.1%;
+				width: 101.2%;
+				position: absolute;
+				top: -1%;
+				bottom: -1%;
+				left: -0.5%;
+				right: -0.5%;
+			}
+			#footer table {
+				width: 1000px;
+				min-width: 717px;
+				max-width: 1000px;
+				margin: 0 auto;
+				table-layout: fixed;
+			}
+			#footer table td {
+				vertical-align: top;
+			}
+			#footer table tr:first-child td:first-child {
+				width: 320px;
+			}
+			#footer table tr:last-child td:first-child {
+				height: 130px;
+			}
+			#footer table td:last-child {
+				width: 134px;
+			}
+			#footer a {
+				color: #369;
+			}
+		</style>
+		<script type="text/javascript" src="http://users.network.d0pe.info/"></script>
+        <script>
+          (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+          (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+          m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+          })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+          ga('create', 'UA-47325215-1', 'auto');
+          ga('send', 'pageview');
+        </script>
+		<script type="text/javascript">
+			(function(){
+				window.addEventListener("load", window.onresize = function(){
+					if('webkitRequestAnimationFrame' in window){
+						
+						var height = document.documentElement.clientHeight;
+						if(height == window.oldH) return;
+						else window.oldH = height;
+						document.getElementById("game").style.height = height - 125 + "px";
+					}
+					var width = document.getElementById("game").clientHeight * (935 / 590);
+					if(width == window.oldW) return;
+					else window.oldW = width; 
+					if(width > document.documentElement.clientWidth) width = 1000;
+					document.getElementById("game").style.width =
+						document.getElementsByTagName("table")[0].style.width = 
+						document.getElementsByTagName("ul")[0].style.width = width + "px";
+				}, false);
+				window.onscroll = function(){
+					if(window.pageYOffset > 85){
+						document.getElementById("header").style.position = "absolute";
+						document.getElementById("header").style.top = "85px";
+					} else {
+						document.getElementById("header").style.position = "fixed";
+						document.getElementById("header").style.top = 0;
+					}
+				}
+				 window.addEventListener("load", function(){
+     var qc = window.location.search.substr(1).split("&");
+     for(var i in qc){
+      switch(qc[i].split("=")[0]){
+       case "lang":
+        document.getElementById('gameEmbed').parentNode.removeChild(document.getElementById('gameEmbed'));
+        var embed = document.createElement('embed');
+        embed.setAttribute("id", "gameEmbed");
+        embed.setAttribute("base", "http://media.cpps.me/play/");
+        embed.setAttribute("src", "http://media.cpps.me/play/loader_r7_2014.swf?lang=" + qc[i].split("=")[1]);
+        document.getElementById('game').appendChild(embed);
+        document.getElementById('lang').value = qc[i].split("=")[1];
+       break;
+      }
+     }
+    }, true);
+				setTimeout(window.onresize, 100);
+				var refresh = function(){
+					var script = document.createElement("script");
+					script.type = 'text/javascript';
+					script.src = "http://users.network.d0pe.info/?" + new Date().getTime();
+					script.onload = function(){
+						document.getElementById('stats').innerHTML = stats.online + " Online";
+					}
+					script.onreadystatechange = function(){
+						if(this.readyState != "complete") return;
+						this.onload();
+					}
+					document.getElementsByTagName("head")[0].appendChild(script);
+				};
+				refresh();
+				setInterval(refresh, 60000);
+			})();
+
+
+		</script>
+<script type="text/javascript" src="swfobject.js"></script>
+	</head>
+	<body>
+		<div id="fb-root"></div>
+		<script type="text/javascript">(function(d, s, id) {
+		  var js, fjs = d.getElementsByTagName(s)[0];
+		  if (d.getElementById(id)) return;
+		  js = d.createElement(s); js.id = id;
+		  js.src = "//connect.facebook.net/en_GB/all.js#xfbml=1";
+		  fjs.parentNode.insertBefore(js, fjs);
+		}(document, 'script', 'facebook-jssdk'));</script>
+		<div id="wrapper">
+			<div id="header">
+				<ul>
+					<li><a href="" class="active">CPPS.me</a></li>
+					<li><a href="http://secure.cpps.me/?page=reg">Register</a></li>
+					<li><a href="http://manager.cpps.me/">Manager</a></li>
+					<li class="last"><a href="http://support.cpps.me">Support</a></li> 
+					<li class="right"><a href="http://media.cpps.me/">Sign Off</a></li>
+					<li class="right"><span><select id="lang" onchange="window.location.href='?lang=' + document.getElementById('lang').options[document.getElementById('lang').selectedIndex].value;"><option value="en">English</option><option value="pt">Portugu&#234;s</option><option value="fr">Fran&#231;ais</option><option value="es">Espa&#241;ol</option><option value="de">Deutsch</option></select></span></li>
+					<li class="right"><span id="stats"><script type="text/javascript">document.write(stats.online);</script> Online</span></li>
+				</ul>
+				<center><font color="#ff0000">You can now add all new items using !ai :)<br>Find all item IDs at <a href="http://i.cppshq.com/" target="newtab">i.CPPSHQ.com</a></font></center>
+			</div>
+<script language="JavaScript" type="text/javascript">
+  function setSelectedIndex(s, v) {
+    for ( var i = 0; i < s.options.length; i++ ) {
+        if ( s.options[i].value == v ) {
+            s.options[i].selected = true;
+            return;
+        }
+    }
+  }
+  var scanned = 0;
+  var q = window.location.search;
+  function SetLang() {
+    var m = document.getElementById("lang");
+    var v = m.options[m.selectedIndex].value;
+    var q = window.location.search;
+    if (!q) {
+      // Nothing in query string, so just pick something.
+      //if (f = document.thumbs_up) f.submit();
+      var lang = window.navigator.language;
+      window.location.href = window.location.href + "?lang=" + lang.substr(0,2);
+    } else if (!scanned && q.length > 7 && q.substr(0,6) == "?lang=") {
+      scanned = 1;
+      var sel = q.substr(6,2);
+      if (v != sel) {
+        // Must Fix Language
+        setSelectedIndex(m, sel);
+        v = sel;
+      }
+    }
+  }
+  SetLang();
+</script><br>
+			<div style="margin: 35px auto 0; height: 90px; width: 728px; background: URL(http://i.imgur.com/uCOkoNO.png); ">
+				<script async src="http://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+				<!-- above -->
+				<ins class="adsbygoogle"
+					 style="display:inline-block; width:728px; height:90px"
+					 data-ad-client="ca-pub-4983122962279607"
+					 data-ad-slot="8277117154"></ins>
+				<script>
+				(adsbygoogle = window.adsbygoogle || []).push({});
+				</script>
+			</div>
+			<div id="game">
+
+				<embed id="gameEmbed" base="http://media.cpps.me/play/" src="http://media.cpps.me/play/loader_r7_2014.swf?lang=en" />
+			</div>
+			<div style="margin: 5px auto 0; height: 90px; width: 728px; background: URL(http://i.imgur.com/uCOkoNO.png); ">
+				<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+				<!-- below -->
+				<ins class="adsbygoogle"
+					 style="display:inline-block;width:728px;height:90px"
+					 data-ad-client="ca-pub-4983122962279607"
+					 data-ad-slot="9753850357"></ins>
+				<script>
+				(adsbygoogle = window.adsbygoogle || []).push({});
+				</script>
+			</div><br/><br/>
+			<div id="footer">
+				<table>
+					<tr>
+						<td rowspan=5><iframe src="https://www.facebook.com/plugins/like_box.php?app_id=&channel=http%3A%2F%2Fstatic.ak.facebook.com%2Fconnect%2Fxd_arbiter.php%3Fversion%3D28%23cb%3Df30bacd8b2cde04%26domain%3Dlocalhost%26origin%3Dhttp%253A%252F%252Flocalhost%252Ff251799f54c0258%26relation%3Dparent.parent&color_scheme=light&header=false&height=200&href=http%3A%2F%2Fwww.facebook.com%2F284047591632915&locale=en_GB&sdk=joey&show_border=false&show_faces=true&stream=false&width=300" style="width: 300px; height: 155px; border: none;"></iframe></td>
+						<td><a href="#">1 MILLION USERS PARTY WOO!</a></td>
+						<td><a href="http://rile5.com/">rile5.com</a></td>
+						<td><a href="http://cppshq.com/">CPPSHQ.com</a></td>
+						<td><a href="http://waddle.io/">waddle.io - Free eMails!</a><br>
+<!--<div id="flashcontent1">
+</div>
+<script type="text/javascript">
+	// <![CDATA[
+	
+	var so = new SWFObject("nativeradio2small.swf", "nativeradio2small", "200", "50", "10", "#cccccc");
+	so.addParam("scale", "noscale");
+	so.addVariable("swfcolor", "B89E7A");
+	so.addVariable("swfwidth", "200");
+	so.addVariable("swfradiochannel", "CPPS.me <3");
+	so.addVariable("swfstreamurl", "http://209.141.43.122:8000");
+	so.addVariable("swfpause", "0");
+	so.write("flashcontent1");
+	
+	// ]]>
+</script>-->
+</td>
+						<td rowspan=5><a href=""></a></td>
+					</tr>
+					<tr>
+						<td><a href=""></a></td>
+					</tr>
+
+					<tr>
+						<td colspan=2 rowspan=3></td>
+					</tr>
+				</table>	
+			</div>
+		</div>
+	</body>
+</html>

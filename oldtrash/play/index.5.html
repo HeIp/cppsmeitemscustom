@@ -1,0 +1,96 @@
+<html>
+<head>
+<meta name="generator" content="HTML Tidy for Linux (vers 6 November 2007), see www.w3.org">
+<base target="_top">
+<title>CPPS.me - Play</title>
+<link rel="stylesheet" href="styles.css" type="text/css">
+<script type="text/css">
+body {
+        font-family:calibri;
+}
+</script>
+<style type="text/css">
+ div.c2 {text-align: center}
+ span.c1 {color: #5580B4}
+</style>
+</head>
+<body>
+<br>
+<h2>|
+  <a href="http://cpps.me/"><span class="c1">Main</span></a> |
+  <a href="http://manager.cpps.me/index.php?area=nameedit"><span class="c1">NameGlow Manager</span></a> |
+  <a href="http://cpps.me/commands.html"><span class="c1">Command List</span></a> |
+  <a href="http://cpps.me/botman.html" target="_blank"><span class="c1">Botman</span></a> |
+  <a href="http://secure.cpps.me/?page=reg"><span class="c1">Create A New Penguin</span></a> |
+</h2>
+<br>
+<script language="JavaScript" type="text/javascript">
+TargetDate = "11/06/2012 11:59:59 PM GMT";
+BackColor = "palegreen";
+ForeColor = "navy";
+CountActive = true;
+CountStepper = -1;
+LeadingZero = true;
+DisplayFormat = "%%D%% Days, %%H%% Hours, %%M%% Minutes, %%S%% Seconds until 1 year anniversary. Login to celebrate with give-aways.";
+FinishMessage = "Yippy! Hurray!";
+</script>
+<!-- <script language="JavaScript" src="http://manager.cpps.me/js/countdown.js"></script> -->
+<br>
+<iframe width=100% height=40 src=http://config.cpps.me/online.html></iframe>
+<hr>
+<form><select id="menu" name="menu" onchange="javascript:SetLang();">
+<option value="en">English</option>
+<option value="pt">Portugu&#234;s</option>
+<option value="fr">Fran&#231;ais</option>
+<option value="es">Espa&#241;ol</option>
+<option value="de">Deutsch</option>
+</select> <a href="javascript:SetLang()" target="_self"><span class="c1">Logout</span></a></form>
+</div>
+<div id="game">Verifying Language ...</div>
+<script language="JavaScript" type="text/javascript">
+  function setSelectedIndex(s, v) {
+    for ( var i = 0; i < s.options.length; i++ ) {
+        if ( s.options[i].value == v ) {
+            s.options[i].selected = true;
+            return;
+        }
+    }
+  }
+  var scanned = 0;
+  var q = window.location.search;
+  function SetLang() {
+    var m = document.getElementById("menu");
+    var v = m.options[m.selectedIndex].value;
+    var q = window.location.search;
+    if (!q) {
+      // Nothing in query string, so just pick something.
+      var lang = window.navigator.language;
+      window.location.href = window.location.href + "?lang=" + lang.substr(0,2);
+    } else if (!scanned && q.length > 7 && q.substr(0,6) == "?lang=") {
+      scanned = 1;
+      var sel = q.substr(6,2);
+      if (v != sel) {
+        // Must Fix Language
+        setSelectedIndex(m, sel);
+        v = sel;
+      }
+    }
+    var url = "http://media.cpps.me/play/loader.swf?lang=" + v;
+    var txt = '<object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" width="100%" height="100%" id="test1" '
+      + 'codebase="http://fpdownload.macromedia.com/pub/shockwave/cabs/flash/swflash.cab">'
+      + '<param name=movie value="' + url + '" />'
+      + '<embed src="' + url + '" width="100%" height="100%" name="test1" type="application/x-shockwave-flash" '
+      + 'pluginspage="http://www.adobe.com/go/getflashplayer" /><\/object>';
+    document.getElementById("game").innerHTML = txt;
+  }
+  SetLang();
+</script><br>
+<br>
+<br>
+<br></div>
+<h2>|
+<a href="http://media.cpps.me/play/loader.exe"><span class="c1">Downloadable Client</span></a> |
+<a href="http://secure.cpps.me/cpps.cgi?page=score&game=FindFour&top=30" target=_blank><span class="c1">High Scores Leaderboard</span></a> |
+</h2>
+</body>
+</html>

@@ -1,0 +1,45 @@
+<h1>Lang Sniffer</h1>
+
+<form>
+
+<select id="menu" name="menu" onchange="javascript:doObject();">
+<option value="">Please select your language</option>
+<option value="en">English</option>
+<option value="pt">Portugu&#234;s</option>
+<option value="fr">Fran&#231;ais</option>
+<option value="es">Espa&#241;ol</option>
+<option value="de">Deutsch</option>
+</select>
+
+</form>
+
+<script>
+  function setSelectedIndex(s, v) {
+    for ( var i = 0; i < s.options.length; i++ ) {
+        if ( s.options[i].value == v ) {
+            s.options[i].selected = true;
+            return;
+        }
+    }
+  }
+  var lang = window.navigator.language;
+  var q = window.location.search;
+  if (!q) {
+    // NO SEARCH QUERY!
+    window.location.href = window.location.href + "?lang=" + lang.substr(0,2);
+  } else if (q.length > 7) {
+    if (q.substr(0,6) == "?lang=") {
+      var l = q.substr(6,2);
+      m = document.getElementById("menu");
+      if (m.value != l) {
+        alert("TOP value: " + m.value);
+        setSelectedIndex(m, l);
+        alert("END value: " + m.value);
+        doObject();
+      }
+    }
+  }
+  function doObject() {
+    alert("Change occurred!");
+  }
+</script>

@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- EN -->
+<startscreen>
+	
+	<backgrounds>
+		<!-- in constant rotation -->
+
+		<background>
+			<url>christmas2013en.swf</url>
+			<probability>100</probability>
+			<nolink/>
+		</background>	
+	
+		<background>
+			<url>gparty.swf</url>
+			<probability>0</probability>
+			<nolink/>
+		</background>		
+
+
+		<background>
+			<url>fairucp.swf</url>
+			<probability>0</probability>
+			<nolink/>
+		</background>	
+		
+		<background>
+			<url>helloween.swf</url>
+			<probability>0</probability>
+			<nolink/>
+		</background>
+
+		<background>
+			<url>cs5.swf</url>
+			<probability>0</probability>
+			<nolink/>
+		</background>
+
+		<background>
+			<url>attic.swf</url>
+			<probability>0</probability>
+			<nolink/>
+		</background>
+
+		<background>
+			<url>cppsme4.swf</url> 
+			<probability>0</probability>
+			<nolink/>
+		</background>
+
+		<background>
+			<url>sunlight2.swf</url>
+			<probability>0</probability>
+			<nolink/>
+		</background>
+		
+		<background>
+			<url>sunlightideas2.swf</url> <!-- normal welcome screen -->
+			<probability>0</probability>
+		</background>
+		
+		<background>
+			<url>1mparty.swf</url>
+			<probability>0</probability>
+			<nolink/>
+		</background>
+		
+		<background>
+			<url>1mpartyislive.swf</url>
+			<probability>0</probability> <!-- turn to 100 once we reach 1m -->
+			<nolink/>
+		</background>
+
+		<!-- /constant rotation -->		
+		
+
+		<!-- external linking content -->		
+				
+		
+		<!-- /external linking content -->
+		
+	</backgrounds>
+	
+	<messages>
+		<message>
+			<title>Follow us @Twitter!</title>
+			<icon>blog.swf</icon>
+			<content type='url'>http://twitter.com/CPPSme</content>
+		</message>
+	</messages>
+
+</startscreen>

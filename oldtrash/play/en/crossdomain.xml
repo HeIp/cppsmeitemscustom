@@ -1,0 +1,14 @@
+<?xml version="1.0"?> 
+<!DOCTYPE cross-domain-policy SYSTEM "http://www.macromedia.com/xml/dtds/cross-domain-policy.dtd"> 
+<cross-domain-policy> 
+   <allow-access-from domain="*.go.com" />
+   <allow-access-from domain="*.dolimg.com" />
+   <allow-access-from domain="*.clubpenguin.com" />
+   <allow-access-from domain="www.miniclip.com" />
+   <allow-access-from domain="www.eset.com" />
+   <allow-access-from domain="icpsa.sytes.net" />
+   <allow-access-from domain="ultimatepenguin.sytes.net" />
+   <allow-access-from domain="uniquecp.info" />
+   <allow-access-from domain="pirrr.at" />
+  <allow-access-from domain="cpps.me" />
+</cross-domain-policy>
