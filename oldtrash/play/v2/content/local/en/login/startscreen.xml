@@ -6,8 +6,8 @@
 		<!-- in constant rotation -->
 
 		<background>
-			<url>christmas2013en.swf</url>
-			<probability>100</probability>
+			<url>card_jitsu_water.swf</url>
+			<probability>0</probability>
 			<nolink/>
 		</background>	
 	
@@ -43,33 +43,28 @@
 		</background>
 
 		<background>
-			<url>cppsme4.swf</url> 
-			<probability>0</probability>
+			<url>cppsme4.swf</url>
+			<probability>100</probability>
 			<nolink/>
 		</background>
 
 		<background>
-			<url>sunlight2.swf</url>
+			<url>100k_celeb_d0pe.swf</url>
 			<probability>0</probability>
 			<nolink/>
 		</background>
 		
 		<background>
-			<url>sunlightideas2.swf</url> <!-- normal welcome screen -->
+			<url>100k_celeb_astro.swf</url>
 			<probability>0</probability>
 		</background>
 		
 		<background>
-			<url>1mparty.swf</url>
+			<url>startscreen2.swf</url>
 			<probability>0</probability>
 			<nolink/>
 		</background>
 		
-		<background>
-			<url>1mpartyislive.swf</url>
-			<probability>0</probability> <!-- turn to 100 once we reach 1m -->
-			<nolink/>
-		</background>
 
 		<!-- /constant rotation -->		
 		
